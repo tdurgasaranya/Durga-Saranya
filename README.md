@@ -9,7 +9,7 @@ In this Portfolio document, I would like to share my work details on the project
 
 **Project1 - Supply chain Master data analysis and reporting**
 
-[Project1](https://www.micron.com/about/our-commitment/sourcing-responsibly/supply-chain)
+[Project1:Micron Technology](https://www.micron.com/about/our-commitment/sourcing-responsibly/supply-chain)
 
 - Extracting data from various sources and performing ETL Process to load the data on to SQL Server
 - With the data on SQL Server helped cross functional teams to transform the data using SQL and did data manupulations.
@@ -19,7 +19,7 @@ In this Portfolio document, I would like to share my work details on the project
 
 **Project2 - Reporting solutions in Live data for Coral Reef bleaching issue**
 
-[Project2](https://coralreefwatch.noaa.gov/satellite/research/coral_bleaching_report.php)
+[Project2:CIS_671](https://coralreefwatch.noaa.gov/satellite/research/coral_bleaching_report.php)
 
 - Extracting data from excel public source and performing ETL Process to load the data on to SQL Server
 - With the data on SQL Server helped cross functional teams to transform the data using SQL and did data manupulations.
@@ -30,7 +30,7 @@ In this Portfolio document, I would like to share my work details on the project
 
 **Project3 - Database management solutions for GVSU Science-Inventory management data**
 
-[Project3](https://www.gvsu.edu/clas/labresource/chemical-and-supply-information-management-system-70-60.htm)
+[Project3:GVSU_CSIMS](https://www.gvsu.edu/clas/labresource/chemical-and-supply-information-management-system-70-60.htm)
 
 
 
