@@ -42,16 +42,21 @@ In this Portfolio document, I would like to share my work details on the project
 # Current Project in my Internship 
 
 **Project4: Data analytics and Reporting solutions to Marmon Food Service & Technologies**
+[Project4](https://www.marmon.com/business-groups/foodservice-technologies/)
+
+- 
+- 
+- 
+- 
+- 
 
 
 
 
 
+## Work FLow I follow for the Projects:
 
-
-## Work FLow for Projects:
-
-The primary objectives of my projects were as follows:
+The primary objectives of my projects are as follows:
 
 1. **Data Collection**: TO gather relevant data from various sources, ensuring its quality and integrity.
 
@@ -69,12 +74,13 @@ The primary objectives of my projects were as follows:
 
 To accomplish all the projects mentioned above, I utilize the following tools and technologies:
 
-- Programming Languages: [List programming languages you plan to use, e.g., Python, R]
-- Data Analysis and Machine Learning Libraries: [Specify relevant libraries, e.g., Pandas, NumPy, scikit-learn]
-- Data Visualization Tools: [Indicate preferred visualization tools, e.g., Matplotlib, Seaborn, Tableau]
-- Integrated Development Environment (IDE): [Mention the IDE you will be using, e.g., Jupyter Notebook, PyCharm]
-- Data Storage and Manipulation: [Specify databases or file formats, e.g., SQL, CSV, JSON]
-- Collaboration and Version Control: [Indicate collaboration tools, e.g., GitHub, Git]
+- Programming Languages: [Python, R]
+- Data Analysis and Machine Learning Libraries: [Pandas, NumPy]
+- Data Visualization Tools: [Tableau, PowerBi]
+- Integrated Development Environment (IDE): [IDLE Python, PyCharm]
+- Analytical Tools and softwares: [SQL Server, SSIS, InforLN, SAP HANA, Snowflake Cloud, Filemaker]
+- Data Storage and Manipulation: [SQL, CSV, EXCELs, Sharepoint, Snowflake Cloud, Azure Data storage]
+- Collaboration and Version Control: [JIRA, ServiceNow, GitHub, Git]
 
 ## Expected Impact
 
