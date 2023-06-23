@@ -1,3 +1,4 @@
+# Portfolio
 # My Project works - Data Analytics
 
 [Professional Summary LinkedIn Profile](https://www.linkedin.com/in/durga-saranya-t-886a47146/)
@@ -13,9 +14,8 @@ In this Portfolio document, I would like to share my work details on the project
 [Project1:Micron Technology](https://www.micron.com/about/our-commitment/sourcing-responsibly/supply-chain)
 
 - Extracting data from various sources and performing ETL Process to load the data on to SQL Server
-- With the data on SQL Server helped cross functional teams to transform the data using SQL and did data manupulations.
-- Developed predictive models to forecast future outcomes or behavior.
-- Identified key factors influencing the problem and provide actionable recommendations.
+- With the data on SQL Server helped cross functional teams to do data manupulations and transformations to generate results.
+- Managed and maintained production data on supply chain domain and helped to build a data pipelines for reporting.
 - Visualized the data on Tableau in intuitive and interactive ways to help end users understand the statistics of data and make decisions.
 
 **Project2 - Reporting solutions in Live data for Coral Reef bleaching issue**
@@ -34,6 +34,14 @@ In this Portfolio document, I would like to share my work details on the project
 
 -Link:
 [Project3:GVSU_CSIMS](https://www.gvsu.edu/clas/labresource/chemical-and-supply-information-management-system-70-60.htm)
+
+- Worked on the Filemaker pro (Claris) tool to maintain and manage the database for the inventory system in GVSU.
+- Created filemaker objects and layouts for the end users and created interactive applets, UI on filemaker with backened database design and  modeling the schema.
+- Organized and managed the database structures and handled the documentations.
+
+# Current Project in my Internship 
+
+**Project4: Data analytics and Reporting solutions to Marmon Food Service & Technologies**
 
 
 
