@@ -10,8 +10,7 @@ In this Portfolio document, I would like to share my work details on the project
 
 **Project1 - Supply chain Master data analysis and reporting**
 
--Link:
-[Project1:Micron Technology](https://www.micron.com/about/our-commitment/sourcing-responsibly/supply-chain)
+[Project1: Micron Technology](https://www.micron.com/about/our-commitment/sourcing-responsibly/supply-chain)
 
 - Extracting data from various sources and performing ETL Process to load the data on to SQL Server
 - With the data on SQL Server helped cross functional teams to do data manupulations and transformations to generate results.
@@ -20,8 +19,7 @@ In this Portfolio document, I would like to share my work details on the project
 
 **Project2 - Reporting solutions in Live data for Coral Reef bleaching issue**
 
--Link:
-[Project2:CIS_671](https://coralreefwatch.noaa.gov/satellite/research/coral_bleaching_report.php)
+[Project2: CIS_671](https://coralreefwatch.noaa.gov/satellite/research/coral_bleaching_report.php)
 
 - Extracting data from excel public source and performing ETL Process to load the data on to SQL Server
 - With the data on SQL Server helped cross functional teams to transform the data using SQL and did data manupulations.
@@ -32,27 +30,22 @@ In this Portfolio document, I would like to share my work details on the project
 
 **Project3 - Database management solutions for GVSU Science-Inventory management data**
 
--Link:
-[Project3:GVSU_CSIMS](https://www.gvsu.edu/clas/labresource/chemical-and-supply-information-management-system-70-60.htm)
+[Project3: GVSU_CSIMS](https://www.gvsu.edu/clas/labresource/chemical-and-supply-information-management-system-70-60.htm)
 
 - Worked on the Filemaker pro (Claris) tool to maintain and manage the database for the inventory system in GVSU.
 - Created filemaker objects and layouts for the end users and created interactive applets, UI on filemaker with backened database design and  modeling the schema.
 - Organized and managed the database structures and handled the documentations.
 
-# Current Project in my Internship 
+# Current Project in my Internship ~ Dream Job
 
 **Project4: Data analytics and Reporting solutions to Marmon Food Service & Technologies**
-[Project4](https://www.marmon.com/business-groups/foodservice-technologies/)
 
-- 
-- 
-- 
-- 
-- 
+[Project4: FoodService production data](https://www.marmon.com/business-groups/foodservice-technologies/)
 
-
-
-
+- Creating Adhoc reports and developing reporting solutions using analytical tools like SQL Server and PowerBI.
+- Data Organizing and collection / extraction of data from LN Infor site and performing data transformations on sql server.
+- Creating models for predicting factors impacting in supply chain and by visualizing results explaining the statistics of data.'
+- Database management and developing reporting solutions to the end user or clients.
 
 ## Work FLow I follow for the Projects:
 
@@ -74,7 +67,7 @@ The primary objectives of my projects are as follows:
 
 To accomplish all the projects mentioned above, I utilize the following tools and technologies:
 
-- Programming Languages: [Python, R]
+- Programming Languages: [Python, SQL]
 - Data Analysis and Machine Learning Libraries: [Pandas, NumPy]
 - Data Visualization Tools: [Tableau, PowerBi]
 - Integrated Development Environment (IDE): [IDLE Python, PyCharm]
@@ -93,6 +86,19 @@ To accomplish all the projects mentioned above, I utilize the following tools an
 - **Competitive Advantage**: Leveraging data analytics will provide a competitive edge, helping to differentiate and excel in the chosen domain.
 
 
+
+# The Data solution I would like to work further for a competition is : 
+
+[Predict H1N1 and Seasonal Flu Vaccines](https://www.drivendata.org/competitions/66/flu-shot-learning/)
+
+- I had a over view of this scenario and like to work on a solution for this competition
+- The key elements I analyzed are:
+- Using a Machine learning approach we can provide a solution to this scarenio like :
+- Creating a Model after data collection, pre processing and featuring selection of most impacting factors in prediction.
+- **An efficient approach would be creating a ML Model like "Logistic Regression" can predict the results.**
+  
+
+# User related materials:
 
 ## Useful Beginner's Cheat Sheet - R Script
 ## Cheat Codes
@@ -114,9 +120,6 @@ To accomplish all the projects mentioned above, I utilize the following tools an
 4. **Calculate Correlation**: `cor(x, y)`
 5. **Perform t-test**: `t.test(x, y)`
 6. **Perform Chi-squared Test**: `chisq.test(x, y)`
-
-
-
 
 
 
