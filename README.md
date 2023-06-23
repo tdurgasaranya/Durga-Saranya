@@ -1,39 +1,62 @@
-# My Dream Project on Data Analytics
+# My Project works - Data Analytics
+
+[Professional Summary LinkedIn Profile](https://www.linkedin.com/in/durga-saranya-t-886a47146/)
 
 ## Introduction
+In this Portfolio document, I would like to share my work details on the projects I have worked and have been working on data analytics. This project aims to leverage data-driven insights and advanced analytics techniques to solve real-world problems and drive meaningful impact. Below, I outline the key details and objectives of my projects.
 
-In this document, I would like to share my dream project on data analytics. This project aims to leverage data-driven insights and advanced analytics techniques to solve real-world problems and drive meaningful impact. Below, I outline the key details and objectives of my dream project.
+## Projects Description
 
-## Project Description
+**Project1 - Supply chain Master data analysis and reporting**
 
-My dream project focuses on [describe the specific problem or domain you want to address]. By applying data analytics techniques, I aim to:
+[Project1](https://www.micron.com/about/our-commitment/sourcing-responsibly/supply-chain)
 
-- Uncover hidden patterns and trends within the data.
-- Develop predictive models to forecast future outcomes or behavior.
-- Identify key factors influencing the problem and provide actionable recommendations.
-- Visualize the data in intuitive and interactive ways to facilitate understanding and decision-making.
+- Extracting data from various sources and performing ETL Process to load the data on to SQL Server
+- With the data on SQL Server helped cross functional teams to transform the data using SQL and did data manupulations.
+- Developed predictive models to forecast future outcomes or behavior.
+- Identified key factors influencing the problem and provide actionable recommendations.
+- Visualized the data on Tableau in intuitive and interactive ways to help end users understand the statistics of data and make decisions.
 
-## Objectives
+**Project2 - Reporting solutions in Live data for Coral Reef bleaching issue**
 
-The primary objectives of my dream project are as follows:
+[Project2](https://coralreefwatch.noaa.gov/satellite/research/coral_bleaching_report.php)
 
-1. **Data Collection**: Gather relevant data from various sources, ensuring its quality and integrity.
+- Extracting data from excel public source and performing ETL Process to load the data on to SQL Server
+- With the data on SQL Server helped cross functional teams to transform the data using SQL and did data manupulations.
+- Developed the graphs on Tableau that would predict the trends and behavious of corals location wise.
+- Identified the factors like High heat, climatic conditions influencing the corals getting more bleached and provided the statistics.
+- Visualized the data on Tableau in intuitive and interactive ways to help end users understand the statistics of data and make decisions.
 
-2. **Data Exploration and Preprocessing**: Perform exploratory data analysis to gain insights into the data. Clean, transform, and preprocess the data as needed to ensure its suitability for analysis.
 
-3. **Feature Engineering**: Engineer new features or select relevant features to enhance the predictive power of the models.
+**Project3 - Database management solutions for GVSU Science-Inventory management data**
 
-4. **Model Development**: Develop robust and accurate predictive models using suitable machine learning or statistical techniques.
+[Project3](https://www.gvsu.edu/clas/labresource/chemical-and-supply-information-management-system-70-60.htm)
 
-5. **Model Evaluation and Selection**: Evaluate the performance of different models and select the most appropriate one based on predefined criteria (e.g., accuracy, precision, recall).
 
+
+
+
+
+
+## Work FLow for Projects:
+
+The primary objectives of my projects were as follows:
+
+1. **Data Collection**: TO gather relevant data from various sources, ensuring its quality and integrity.
+
+2. **Data Exploration and Preprocessing**: To Perform exploratory data analysis to gain insights into the data. Clean, transform, and preprocess the data as needed to ensure its suitability for analysis.
+
+3. **Feature Engineering**: New featuring to enhance the predictive power of the models.
+
+4. **Model Development**: To develop robust and accurate predictive models using suitable machine learning or statistical techniques.
+
+5. **Model Evaluation and Selection**: Evaluating the performance of different models and select the most appropriate one based on predefined criteria.
 6. **Insights and Recommendations**: Derive actionable insights from the data analysis results and provide recommendations to address the problem or optimize the desired outcomes.
-
-7. **Visualization and Reporting**: Create visually appealing and informative visualizations to effectively communicate the findings and insights to stakeholders.
+7. **Visualization and Reporting**: Creating visually appealing and informative visualizations to effectively communicate the findings and insights to stakeholders.
 
 ## Tools and Technologies
 
-To accomplish this project, I plan to utilize the following tools and technologies:
+To accomplish all the projects mentioned above, I utilize the following tools and technologies:
 
 - Programming Languages: [List programming languages you plan to use, e.g., Python, R]
 - Data Analysis and Machine Learning Libraries: [Specify relevant libraries, e.g., Pandas, NumPy, scikit-learn]
@@ -44,8 +67,6 @@ To accomplish this project, I plan to utilize the following tools and technologi
 
 ## Expected Impact
 
-By successfully executing this dream project, I anticipate the following impacts:
-
 - **Improved Decision-Making**: The insights gained from data analytics will enable more informed and data-driven decision-making processes.
 
 - **Efficiency and Optimization**: By identifying inefficiencies and bottlenecks, the project will drive optimization and process improvements.
@@ -53,14 +74,6 @@ By successfully executing this dream project, I anticipate the following impacts
 - **Predictive Capabilities**: The developed predictive models will aid in forecasting future trends, enabling proactive measures to be taken.
 
 - **Competitive Advantage**: Leveraging data analytics will provide a competitive edge, helping to differentiate and excel in the chosen domain.
-
-## Conclusion
-
-My dream project on data analytics holds great potential to contribute to our understanding of [problem/domain] and provide valuable insights for decision-makers. By applying advanced analytics techniques to real-world data, I aim to make a positive impact and drive meaningful change.
-
-If you have any questions or would like to discuss this project further, please feel free to reach out to me.
-
-
 
 
 
