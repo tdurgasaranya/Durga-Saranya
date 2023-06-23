@@ -8,6 +8,7 @@ In this Portfolio document, I would like to share my work details on the project
 ## Projects Description
 
 **Project1 - Supply chain Master data analysis and reporting**
+
 -Link:
 [Project1:Micron Technology](https://www.micron.com/about/our-commitment/sourcing-responsibly/supply-chain)
 
@@ -18,6 +19,7 @@ In this Portfolio document, I would like to share my work details on the project
 - Visualized the data on Tableau in intuitive and interactive ways to help end users understand the statistics of data and make decisions.
 
 **Project2 - Reporting solutions in Live data for Coral Reef bleaching issue**
+
 -Link:
 [Project2:CIS_671](https://coralreefwatch.noaa.gov/satellite/research/coral_bleaching_report.php)
 
@@ -29,6 +31,7 @@ In this Portfolio document, I would like to share my work details on the project
 
 
 **Project3 - Database management solutions for GVSU Science-Inventory management data**
+
 -Link:
 [Project3:GVSU_CSIMS](https://www.gvsu.edu/clas/labresource/chemical-and-supply-information-management-system-70-60.htm)
 
