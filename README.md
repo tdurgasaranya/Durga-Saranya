@@ -60,3 +60,34 @@ My dream project on data analytics holds great potential to contribute to our un
 
 If you have any questions or would like to discuss this project further, please feel free to reach out to me.
 
+
+
+
+
+## Useful Beginner's Cheat Sheet - R Script
+## Cheat Codes
+
+### Data Manipulation
+
+1. **Create a Vector**: `x <- c(1, 2, 3, 4, 5)`
+2. **Access Elements in a Vector**: `x[3]` (accesses the third element)
+3. **Create a Matrix**: `m <- matrix(1:9, nrow = 3, ncol = 3)`
+4. **Access Elements in a Matrix**: `m[2, 3]` (accesses the element in the second row and third column)
+5. **Create a Data Frame**: `df <- data.frame(x = c(1, 2, 3), y = c("a", "b", "c"))`
+6. **Access Columns in a Data Frame**: `df$x` or `df[["x"]]`
+
+### Data Analysis
+
+1. **Summary Statistics**: `summary(x)` (provides summary statistics of a numeric vector)
+2. **Calculate Mean**: `mean(x)`
+3. **Calculate Standard Deviation**: `sd(x)`
+4. **Calculate Correlation**: `cor(x, y)`
+5. **Perform t-test**: `t.test(x, y)`
+6. **Perform Chi-squared Test**: `chisq.test(x, y)`
+
+
+
+
+
+
+
