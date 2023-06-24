@@ -43,7 +43,7 @@ In this Portfolio document, I would like to share my work details on the project
 
 **Project4: Data analytics and Reporting solutions to Marmon Food Service & Technologies**
 
-[Project4 link: FoodService production data](https://www.marmon.com/business-groups/foodservice-technologies/)
+[Project4 link: FoodService Technology](https://www.marmon.com/business-groups/foodservice-technologies/)
 
 - Creating Adhoc reports and developing reporting solutions using analytical tools like SQL Server and PowerBI.
 - Data Organizing and collection / extraction of data from LN Infor site and performing data transformations on sql server.
