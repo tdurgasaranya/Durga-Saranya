@@ -128,13 +128,20 @@ To accomplish all the projects mentioned above, I utilize the following tools an
 
 
 ## Article and video suggestions on Supervised learning in statistical method
+
 ***by MIT***
 
-[Article](https://ailephant.com/tag/probabilities/)
+[Article Link](https://ailephant.com/tag/probabilities/)
+
+
 [Video Link](https://youtu.be/EC6bf8JCpDQ)
 
-![Img](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.analyticsvidhya.com%2Fblog%2F2021%2F02%2Fintroduction-to-machine-learning-for-absolute-beginners%2F&psig=AOvVaw3vLi_fMGkUVODwtdKZTtxq&ust=1687652724175000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOCPobvS2v8CFQAAAAAdAAAAABB5)
 
-![PIC](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.analyticsvidhya.com%2Fblog%2F2021%2F02%2Fintroduction-to-machine-learning-for-absolute-beginners%2F&psig=AOvVaw3vLi_fMGkUVODwtdKZTtxq&ust=1687652724175000&source=images&cd=vfe&ved=0CBAQjRxqGAoTCOCPobvS2v8CFQAAAAAdAAAAABCAAQ)
+- And finally "Supervised and Unsupervised learning Memes" :P
+  
 
+![Img](https://editor.analyticsvidhya.com/uploads/25827Supervised%20Learning.jpg)
+
+
+![PIC](https://editor.analyticsvidhya.com/uploads/52149Unsupervised_Learning.png)
 
