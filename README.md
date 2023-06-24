@@ -1,4 +1,7 @@
 # Portfolio
+![img](https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2022/04/web-developer-portfolio.png)
+
+
 # My Project works - Data Analytics
 
 [Professional Summary LinkedIn Profile](https://www.linkedin.com/in/durga-saranya-t-886a47146/)
