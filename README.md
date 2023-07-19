@@ -1,6 +1,6 @@
 ## Name: Durga Tummalapalli
 # Portfolio
-![img](https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2022/04/web-developer-portfolio.png)
+![img](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hostinger.ph%2Ftutorials%2Fhow-to-make-an-online-portfolio&psig=AOvVaw2H-jisoq3UAAIji6eUo07J&ust=1689882953998000&source=images&cd=vfe&opi=89978449&ved=0CAwQjRxqFwoTCIiUvtvGm4ADFQAAAAAdAAAAABBl)
 
 
 # My Project works - Data Analytics
