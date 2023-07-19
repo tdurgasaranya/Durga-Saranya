@@ -1,4 +1,4 @@
-## Name: Durga Tummalapalli
+# Name: Durga Tummalapalli
 # Portfolio
 
 # Project works : Data Analytics - Business Intelligence (Supply Chain)
@@ -8,8 +8,6 @@
 ## Introduction
 
 In this Portfolio document, I would like to share my work details on the projects I have worked and have been working on data analytics in supply chain industry and various domains. These projects aim to leverage data-driven insights and advanced analytics techniques to solve real time Organizations data problems and driving meaningful impact. Below, I outline the key details and objectives of my projects.
-
-## Description
 
 # Current Project in my Internship at OST, Open Systems Technologies
 **Role: Business Intelligence and reporting(Analytics)**
