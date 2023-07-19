@@ -1,7 +1,7 @@
 ## Name: Durga Tummalapalli
 # Portfolio
 
-![img](https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2021/08/how-to-make-an-online-portfolio.webp)
+![img](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pxfuel.com%2Fen%2Fdesktop-wallpaper-pulea&psig=AOvVaw3O7tj7hpeElfhT1CEyLssS&ust=1689894673245000&source=images&cd=vfe&opi=89978449&ved=0CAwQjRxqGAoTCPDz5q_ym4ADFQAAAAAdAAAAABClAQ)
 
 # Project works : Data Analytics - Business Intelligence (Supply Chain)
 
