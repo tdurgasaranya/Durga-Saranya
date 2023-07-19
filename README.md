@@ -5,8 +5,6 @@
 
 # Project works : Data Analytics - Business Intelligence (Supply Chain)
 
-- Data anlysis integrating with "Supply chain" domain in my projects
-
 [Professional Summary : LinkedIn Profile](https://www.linkedin.com/in/durga-saranya-t-886a47146/)
 
 ## Introduction
