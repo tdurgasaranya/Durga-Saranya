@@ -5,14 +5,48 @@
 
 # My Project works - Data Analytics
 
+- Data anlysis integrating with "Supply chain" domain in my projects
+
 [Professional Summary LinkedIn Profile](https://www.linkedin.com/in/durga-saranya-t-886a47146/)
 
 ## Introduction
-In this Portfolio document, I would like to share my work details on the projects I have worked and have been working on data analytics. These projects aim to leverage data-driven insights and advanced analytics techniques to solve real time Organizations data problems and driving meaningful impact. Below, I outline the key details and objectives of my projects.
+
+In this Portfolio document, I would like to share my work details on the projects I have worked and have been working on data analytics in supply chain industry and various domains. These projects aim to leverage data-driven insights and advanced analytics techniques to solve real time Organizations data problems and driving meaningful impact. Below, I outline the key details and objectives of my projects.
 
 ## Projects Description
 
-**Project1 - Supply chain Master data analysis and reporting**
+
+# Current Project in my Internship at OST, Open Systems Technologies
+
+[Project Client](https://marmonfoodservice.com/our-story/)
+
+**Project4: Data analytics and Reporting solutions to Food Service & Technologies Firm**
+
+- Creating Adhoc reports and developing reporting solutions using analytical tools like SQL Server and PowerBI.
+- Data Organizing and collection / extraction of data from LN Infor site and performing data transformations on sql server.
+- Creating models for predicting factors impacting in supply chain and by visualizing results explaining the statistics of data.'
+- Database management and developing reporting solutions to the end user or clients.
+
+
+
+
+
+
+
+
+
+
+
+
+
+# ***Current Project POC***:
+
+- Providing Automated reporting solutions to client with less manual interaction
+- Automated solution in power Bi reporting that is achieved with Python scripting with SQL integration.
+- Python scripts are widely used for automating load jobs for scheduled executions and automated transformations, data manupulations on SQL server that end up data loading on to reporting tools like Power Bi.
+
+
+**Project2 - Supply Chain Master data analysis and reporting**
 
 [Project1 link: Micron Technology](https://www.micron.com/about/our-commitment/sourcing-responsibly/supply-chain)
 
@@ -21,7 +55,17 @@ In this Portfolio document, I would like to share my work details on the project
 - Managed and maintained production data on supply chain domain and helped to build a data pipelines for reporting.
 - Visualized the data on Tableau in intuitive and interactive ways to help end users understand the statistics of data and make decisions.
 
-**Project2 - Reporting solutions in Live data for Coral Reef bleaching issue**
+
+
+
+
+
+
+
+
+
+
+**Project3 - Reporting solutions in Live data for Coral Reef bleaching issue**
 
 [Project2 link: CIS_671](https://coralreefwatch.noaa.gov/satellite/research/coral_bleaching_report.php)
 
@@ -32,7 +76,7 @@ In this Portfolio document, I would like to share my work details on the project
 - Visualized the data on Tableau in intuitive and interactive ways to help end users understand the statistics of data and make decisions.
 
 
-**Project3 - Database management solutions for GVSU Science-Inventory management data**
+**Project4 - Database management solutions for GVSU Science - Inventory management data**
 
 [Project3 link: GVSU_CSIMS](https://www.gvsu.edu/clas/labresource/chemical-and-supply-information-management-system-70-60.htm)
 
@@ -40,32 +84,8 @@ In this Portfolio document, I would like to share my work details on the project
 - Created filemaker objects and layouts for the end users and created interactive applets, UI on filemaker with backened database design and  modeling the schema.
 - Organized and managed the database structures and handled the documentations.
 
-# Current Project in my Internship ~ Dream Job
 
-**Project4: Data analytics and Reporting solutions to Food Service & Technologies Firm**
-
-- Creating Adhoc reports and developing reporting solutions using analytical tools like SQL Server and PowerBI.
-- Data Organizing and collection / extraction of data from LN Infor site and performing data transformations on sql server.
-- Creating models for predicting factors impacting in supply chain and by visualizing results explaining the statistics of data.'
-- Database management and developing reporting solutions to the end user or clients.
-
-# Dream project to work:
-
-[NASA Data analytics:](https://www.nas.nasa.gov/supercomputing/data_analytics.html)
-
-
-- I would like to work on NASA data and help solving real time space statistics and to provide reporting solutions for scientific related data.
-- I worked on diverse domains and various areas of data like Supply chain, Production , Manufacturing, Food processing, Services and other so My dream project would be trying out real time data analysis on NASA space/scientific data.
-  
-
-# ***Current Project POC***:
-
-- Providing Automated reporting solutions to client with less manual interaction
-- Automated solution in power Bi reporting that is achieved with Python scripting with SQL integration.
-- Python scripts are widely used for automating load jobs for scheduled executions and automated transformations, data manupulations on SQL server that end up data loading on to reporting tools like Power Bi.
-
-
-## Work Flow I follow for the Projects:
+## Work Flow I follow for the Projects focusing on Supply chain domain are as follows:
 
 The primary objectives of my projects are as follows:
 
@@ -78,8 +98,13 @@ The primary objectives of my projects are as follows:
 4. **Model Development**: To develop robust and accurate predictive models using suitable machine learning or statistical techniques.
 
 5. **Model Evaluation and Selection**: Evaluating the performance of different models and select the most appropriate one based on predefined criteria.
+   
 6. **Insights and Recommendations**: Derive actionable insights from the data analysis results and provide recommendations to address the problem or optimize the desired outcomes.
+   
 7. **Visualization and Reporting**: Creating visually appealing and informative visualizations to effectively communicate the findings and insights to stakeholders.
+
+
+
 
 ## Tools and Technologies
 
@@ -92,6 +117,8 @@ To accomplish all the projects mentioned above, I utilize the following tools an
 - Analytical Tools and softwares: [SQL Server, SSIS, InforLN, SAP HANA, Snowflake Cloud, Filemaker]
 - Data Storage and Manipulation: [SQL, CSV, EXCELs, Sharepoint, Snowflake Cloud, Azure Data storage]
 - Collaboration and Version Control: [JIRA, ServiceNow, GitHub, Git]
+
+
 
 ## Expected Impact
 
