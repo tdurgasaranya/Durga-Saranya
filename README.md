@@ -3,7 +3,7 @@
 
 ![img](https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2021/08/how-to-make-an-online-portfolio.webp)
 
-# My Project works in Data Analytics - Business Intelligence (Supply Chain)
+# Project works : Data Analytics - Business Intelligence (Supply Chain)
 
 - Data anlysis integrating with "Supply chain" domain in my projects
 
