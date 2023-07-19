@@ -1,7 +1,7 @@
 ## Name: Durga Tummalapalli
 # Portfolio
-![img](https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2021/08/how-to-make-an-online-portfolio.webp)
 
+![img](https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2021/08/how-to-make-an-online-portfolio.webp)
 
 # My Project works - Data Analytics
 
@@ -13,59 +13,42 @@
 
 In this Portfolio document, I would like to share my work details on the projects I have worked and have been working on data analytics in supply chain industry and various domains. These projects aim to leverage data-driven insights and advanced analytics techniques to solve real time Organizations data problems and driving meaningful impact. Below, I outline the key details and objectives of my projects.
 
-## Projects Description
-
+## Description
 
 # Current Project in my Internship at OST, Open Systems Technologies
+**Role: Business Intelligence and reporting(Analytics)**
 
-[Project Client](https://marmonfoodservice.com/our-story/)
+[Project - Client Info ](https://marmonfoodservice.com/our-story/)
 
-**Project4: Data analytics and Reporting solutions to Food Service & Technologies Firm**
+**Project1: Data analytics and Reporting solutions Food Service Technologies - Supply chain**
 
-- Creating Adhoc reports and developing reporting solutions using analytical tools like SQL Server and PowerBI.
-- Data Organizing and collection / extraction of data from LN Infor site and performing data transformations on sql server.
-- Creating models for predicting factors impacting in supply chain and by visualizing results explaining the statistics of data.'
-- Database management and developing reporting solutions to the end user or clients.
-
-
-
-
-
-
-
+- Business requirements : Data requirements collection, interpreting and analysing supply chain data from various sources such as inventory levels, sales forecasts, customer/vendor master data, demand, and logistics information.
+- Stakeholder Collaboration: Working closely with stakeholders everyday at work facilitating communication, gathering business requirements and present insights and recommendations in a clear and concise manner.
+- Collaborating with cross-functional teams, including sales, procurement, and finance, to gather requirements and define key performance indicators (KPIs) for sales and purchase data analysis.
+- Developing PowerBi dashboards and reports to provide regular updates on supply chain performance metrics. This helps stakeholders monitor the efficiency, accuracy, and effectiveness of supply chain operations.
+- Creating Adhoc reports on SQL Server with SQL and developing reporting solutions using analytical tool PowerBI.
+- Working with Production data, Vendor Master data analysis and delivering reporting solutions to the client.
+- Analysing sales and purchase orders data to identify trends, patterns, and opportunities for process improvement and cost optimization.
+- Developing and maintaining data models and databases to effectively track and manage sales and purchase data, ensuring data accuracy and integrity.
 
 
+**Project2 - Supply Chain Master data analysis, Master data management and reporting**
 
+[Company : Micron Technology](https://www.micron.com/about/our-commitment/sourcing-responsibly/supply-chain)
 
-
-
-# ***Current Project POC***:
-
-- Providing Automated reporting solutions to client with less manual interaction
-- Automated solution in power Bi reporting that is achieved with Python scripting with SQL integration.
-- Python scripts are widely used for automating load jobs for scheduled executions and automated transformations, data manupulations on SQL server that end up data loading on to reporting tools like Power Bi.
-
-
-**Project2 - Supply Chain Master data analysis and reporting**
-
-[Project1 link: Micron Technology](https://www.micron.com/about/our-commitment/sourcing-responsibly/supply-chain)
-
+- Business requirements and collaborations with SMEs and report stake holders across different areas and domains.
+- Identified and recommended strategies to enhance sales forecasting accuracy, optimize inventory levels, and streamline procurement processes based on sales and purchase data analysis.
+- Conducted root cause analysis to identify factors impacting sales and purchase performance, such as demand fluctuations, supply chain disruptions, or pricing strategies.
+- Assisted in the development and implementation of data governance policies and procedures to ensure data quality, security, and compliance in handling sales and purchase data.
+- Conducted regular data audits to identify data inconsistencies, resolve data discrepancies, and maintain data integrity in the sales and purchase processes.
+- Provided support and training to end-users in utilizing data analysis tools and platforms for sales and purchase data interpretation and decision-making.
+- Participated in cross-functional projects aimed at improving supply chain efficiency, reducing costs, and enhancing customer satisfaction through data-driven insights.
+- Forecasting demand: By analyzing historical sales data, we build demand forecasting models and reporting solutions to predict future sales. This helps the client to plan production levels, manage inventory, and optimize resource allocations.
 - Extracting data from various sources and performing ETL Process to load the data on to SQL Server
 - With the data on SQL Server helped cross functional teams to do data manupulations and transformations to generate results.
-- Managed and maintained production data on supply chain domain and helped to build a data pipelines for reporting.
-- Visualized the data on Tableau in intuitive and interactive ways to help end users understand the statistics of data and make decisions.
 
 
-
-
-
-
-
-
-
-
-
-**Project3 - Reporting solutions in Live data for Coral Reef bleaching issue**
+**Project3 - Reporting solutions for Coral Reef bleaching issue Realtime scenario**
 
 [Project2 link: CIS_671](https://coralreefwatch.noaa.gov/satellite/research/coral_bleaching_report.php)
 
@@ -89,22 +72,19 @@ In this Portfolio document, I would like to share my work details on the project
 
 The primary objectives of my projects are as follows:
 
-1. **Data Collection**: TO gather relevant data from various sources, ensuring its quality and integrity.
+**Requirement Gathering** : Collaborating with stakeholders,procurement teams and supply chain teams to gather requirements for data analysis and process improvements. Understanding stakeholders needs and challenges to identify opportunities for enhancing supply chain operations with data analysis and reporting solutions.
 
-2. **Data Exploration and Preprocessing**: To Perform exploratory data analysis to gain insights into the data. Clean, transform, and preprocess the data as needed to ensure its suitability for analysis.
+**Data Collection and Analysis** : Collecting relevant data from various sources, such as sales reports, purchase records, inventory data, and supplier information. Cleansing and validating the data to ensure accuracy. Analysing the data using tools like Excel, SQL, or data visualization software to identify trends, patterns, and insights.
 
-3. **Feature Engineering**: New featuring to enhance the predictive power of the models.
+**Stakeholder Collaboration** : Working closely with various stakeholders, including sales, procurement, operations, logistics, and finance teams. Provide data-driven insights, and support decision-making processes.
 
-4. **Model Development**: To develop robust and accurate predictive models using suitable machine learning or statistical techniques.
+**Data Governance**: To ensure data quality, security, and compliance in handling supply chain data. Adhering to data governance policies and procedures and to maintain data integrity, implement data automation, and ensure compliance with data privacy regulations.
 
-5. **Model Evaluation and Selection**: Evaluating the performance of different models and select the most appropriate one based on predefined criteria.
-   
-6. **Insights and Recommendations**: Derive actionable insights from the data analysis results and provide recommendations to address the problem or optimize the desired outcomes.
-   
-7. **Visualization and Reporting**: Creating visually appealing and informative visualizations to effectively communicate the findings and insights to stakeholders.
+**Visualization and Reporting**: Creating visually appealing and informative visualizations to effectively communicate the findings and insights to stakeholders.
 
+**Process Improvement** : Identifying the process inefficiencies or areas for improvement based on data analysis and stakeholder feedback. Collaborating with cross-functional teams to design and implement process improvements, such as optimizing inventory levels, streamlining procurement processes, or enhancing demand forecasting accuracy.
 
-
+**Documentation** : To maintain documentation of data analysis processes, methodologies, and findings often. Keep records of project deliverables, reports, and presentations for future reference.
 
 ## Tools and Technologies
 
@@ -118,6 +98,12 @@ To accomplish all the projects mentioned above, I utilize the following tools an
 - Data Storage and Manipulation: [SQL, CSV, EXCELs, Sharepoint, Snowflake Cloud, Azure Data storage]
 - Collaboration and Version Control: [JIRA, ServiceNow, GitHub, Git]
 
+
+# ***Project POC***:
+
+- Providing Automated reporting solutions to client with less manual interaction
+- Automated solution in power Bi reporting that is achieved with Python scripting with SQL integration.
+- Python scripts are widely used for automating load jobs for scheduled executions and automated transformations, data manupulations on SQL server that end up data loading on to reporting tools like Power Bi.
 
 
 ## Expected Impact
