@@ -50,7 +50,7 @@ In this Portfolio document, I would like to share my work details on the project
 
 **Project3 - Reporting solutions for Coral Reef bleaching issue Realtime scenario**
 
-[Project2 link: CIS_671](https://coralreefwatch.noaa.gov/satellite/research/coral_bleaching_report.php)
+[Project3 : CIS_671](https://coralreefwatch.noaa.gov/satellite/research/coral_bleaching_report.php)
 
 - Extracting data from excel public source and performing ETL Process to load the data on to SQL Server
 - With the data on SQL Server helped cross functional teams to transform the data using SQL and did data manupulations.
@@ -61,7 +61,7 @@ In this Portfolio document, I would like to share my work details on the project
 
 **Project4 - Database management solutions for GVSU Science - Inventory management data**
 
-[Project3 link: GVSU_CSIMS](https://www.gvsu.edu/clas/labresource/chemical-and-supply-information-management-system-70-60.htm)
+[Project4 : GVSU_CSIMS](https://www.gvsu.edu/clas/labresource/chemical-and-supply-information-management-system-70-60.htm)
 
 - Worked on the Filemaker pro (Claris) tool to maintain and manage the database for the inventory system in GVSU.
 - Created filemaker objects and layouts for the end users and created interactive applets, UI on filemaker with backened database design and  modeling the schema.
