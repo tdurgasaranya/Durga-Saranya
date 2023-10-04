@@ -10,7 +10,7 @@
 In this Portfolio document, I would like to share my work details on the projects I have worked and have been working on data analytics in supply chain industry and various domains. These projects aim to leverage data-driven insights and advanced analytics techniques to solve real time Organizations data problems and driving meaningful impact. Below, I outline the key details and objectives of my projects.
 
 # Recent Project at OST, Open Systems Technologies
-**Role: Business Intelligence and reporting(Analytics)**
+**Area: Data Analytics, Business Intelligence Reporting**
 
 [Project - Client Info ](https://marmonfoodservice.com/our-story/)
 
