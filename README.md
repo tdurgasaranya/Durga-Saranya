@@ -1,5 +1,4 @@
 # Name: Durga Tummalapalli
-# Portfolio
 
 # Project works : Data Analytics - Business Intelligence (Supply Chain)
 
