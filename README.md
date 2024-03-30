@@ -2,8 +2,6 @@
 
 # Project works : Data Analytics - Business Intelligence (Supply Chain)
 
-[Professional Summary : LinkedIn Profile](https://www.linkedin.com/in/durga-saranya-t-886a47146/)
-
 ## Introduction
 
 In this Portfolio document, I would like to share my work details on the projects I have worked and have been working on data analytics in supply chain industry and various domains. These projects aim to leverage data-driven insights and advanced analytics techniques to solve real time Organizations data problems and driving meaningful impact. Below, I outline the key details and objectives of my projects.
