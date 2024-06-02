@@ -10,7 +10,7 @@ In this Portfolio document, I would like to share my work details on the project
 ## Blue Bird Corporation
 [Company Profile](https://www.blue-bird.com/)
 
-**Area: Business Intelligence Development, PowerBI reporting
+**Area: Business Intelligence Development, PowerBI reporting**
 
 - Developing comprehensive BI reports to monitor key supply chain metrics, including inventory levels, order fulfillment rates, and supplier performance.
 - Designing and implementing dashboards that provide real-time visibility into supply chain operations, enabling proactive decision-making and risk management.
