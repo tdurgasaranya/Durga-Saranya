@@ -8,7 +8,7 @@ In this Portfolio document, I would like to share my work details on the project
 
 
 ## Blue Bird Corporation
-(https://www.blue-bird.com/)
+[Company Profile](https://www.blue-bird.com/)
 
 **Area: Business Intelligence Development, PowerBI reporting
 
