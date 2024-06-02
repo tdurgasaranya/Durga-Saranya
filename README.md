@@ -1,12 +1,33 @@
 # Name: Durga Tummalapalli
 
-# Project works : Data Analytics - Business Intelligence (Supply Chain)
+# Domain : Data Analytics - Business Intelligence in (Supply Chain)
 
 ## Introduction
 
 In this Portfolio document, I would like to share my work details on the projects I have worked and have been working on data analytics in supply chain industry and various domains. These projects aim to leverage data-driven insights and advanced analytics techniques to solve real time Organizations data problems and driving meaningful impact. Below, I outline the key details and objectives of my projects.
 
-# Recent Project at OST, Open Systems Technologies
+
+## Blue Bird Corporation
+(https://www.blue-bird.com/)
+
+**Area: Business Intelligence Development, PowerBI reporting
+
+- Developing comprehensive BI reports to monitor key supply chain metrics, including inventory levels, order fulfillment rates, and supplier performance.
+- Designing and implementing dashboards that provide real-time visibility into supply chain operations, enabling proactive decision-making and risk management.
+- Analyzing supply chain data to identify bottlenecks and inefficiencies, recommending data-driven solutions to improve process flow and reduce costs.
+- Collaborating with supply chain managers and stakeholders to define reporting requirements and KPIs, ensuring alignment with business objectives.
+- Integrating data from multiple supply chain systems (ERP, WMS, TMS) into a unified BI platform, enhancing data consistency and reporting accuracy.
+- Utilizing Power BI to create interactive visualizations that highlight trends and anomalies in supply chain data, facilitating quick insights and actions.
+- Conducting root cause analysis of supply chain disruptions, using BI tools to uncover underlying issues and propose corrective measures.
+- Automating the generation and distribution of supply chain reports, reducing manual effort and ensuring timely access to critical information.
+- Creating predictive models to forecast demand and supply chain needs, improving planning accuracy and inventory management.
+- Providing training and support to supply chain teams on using BI tools and interpreting reports, enhancing their analytical capabilities and decision-making skills.
+- Monitoring supply chain performance against SLAs and benchmarks, using BI reports to drive continuous improvement initiatives.
+- Leveraging advanced analytics to optimize supply chain networks, identifying opportunities for cost savings and efficiency gains.
+
+
+
+## OST, Open Systems Technologies
 **Area: Data Analytics, Business Intelligence Reporting**
 
 [Project - Client Info ](https://marmonfoodservice.com/our-story/)
