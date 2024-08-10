@@ -1,0 +1,26 @@
+/* General body styling */
+body {
+  font-family: 'Open Sans', sans-serif;
+  color: #333;
+}
+
+/* Heading colors */
+h1, h2, h3, h4, h5, h6 {
+  color: #007bff;
+}
+
+/* Table of contents */
+#TOC {
+  border-left: 2px solid #007bff;
+  padding-left: 10px;
+}
+
+/* Links */
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
