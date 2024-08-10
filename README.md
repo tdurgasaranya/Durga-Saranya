@@ -118,7 +118,7 @@ Maintain comprehensive documentation of processes, methodologies, and findings f
 
 ## Contact Information
 
-**Email:** [durga@example.com](mailto:durga@example.com)  
+**Email:** [Gmail](durgasaranyatumma@gmail.com)  
 **LinkedIn:** [Durga Tummalapalli](https://www.linkedin.com/in/durga-saranya/)  
 **GitHub:** [Durga's GitHub](https://github.com/durga)
 
