@@ -1,4 +1,5 @@
-![My Portfolio](https://img.pikbest.com/wp/202346/data-analytics-web-banner-and-business-chart-mockup-featuring-a-3d-rendered-seo-user-interface_9621529.jpg!w700wp)
+<img src="https://img.pikbest.com/wp/202346/data-analytics-web-banner-and-business-chart-mockup-featuring-a-3d-rendered-seo-user-interface_9621529.jpg!w700wp" alt="Project Portfolio" style="width:100%;" />
+
 # Durga Tummalapalli
 **Data Analytics & Business Intelligence Specialist**
 
