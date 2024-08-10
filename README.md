@@ -1,8 +1,6 @@
-![My Portfolio](https://media.istockphoto.com/id/518311294/vector/flat-line-design-website-banner-of-business-analysis-and-planning.jpg?s=612x612&w=0&k=20&c=lc_d3ZdSlaF5X3bYxmCTRFnjgnYLxblIBsB3lCVFSAE=)
+![My Portfolio](https://img.pikbest.com/wp/202346/data-analytics-web-banner-and-business-chart-mockup-featuring-a-3d-rendered-seo-user-interface_9621529.jpg!w700wp)
 # Durga Tummalapalli
 **Data Analytics & Business Intelligence Specialist**
-
-*Specializing in Supply Chain Management*
 
 ---
 
