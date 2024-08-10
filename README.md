@@ -1,16 +1,4 @@
----
-title: "Durga Tummalapalli - Professional Portfolio"
-author: "Durga Tummalapalli"
-output: 
-  html_document:
-    css: styles.css
-    toc: true
-    toc_float: true
-    toc_depth: 3
-    number_sections: true
-    theme: flatly
----
-
+![My Portfolio](https://media.istockphoto.com/id/518311294/vector/flat-line-design-website-banner-of-business-analysis-and-planning.jpg?s=612x612&w=0&k=20&c=lc_d3ZdSlaF5X3bYxmCTRFnjgnYLxblIBsB3lCVFSAE=)
 # Durga Tummalapalli
 **Data Analytics & Business Intelligence Specialist**
 
@@ -18,7 +6,7 @@ output:
 
 ---
 
-## Table of Contents
+## Contents
 - [Introduction](#introduction)
 - [Professional Experience](#professional-experience)
 - [Workflow](#workflow)
