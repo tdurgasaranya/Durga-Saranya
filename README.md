@@ -1,5 +1,4 @@
-
-<img src="/Users/saranyat/Desktop/Screen Shot 2024-08-12 at 8.27.52 PM.png" style="width:50%;" />
+<img src="https://static.vecteezy.com/system/resources/previews/008/689/791/non_2x/data-analysis-banner-web-icon-evaluate-increase-processing-line-graph-cloud-tech-report-focus-optimization-illustration-concept-vector.jpg" style="width:70%;" />
 
 # Portfolio
 **Data Analytics & Business Intelligence Specialist**
