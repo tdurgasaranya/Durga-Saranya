@@ -1,4 +1,5 @@
-<img src="https://www.widsworldwide.org/wp-content/uploads/2024/08/ID-e1723069784274.jpeg" style="width:50%;" />
+
+<img src="/Users/saranyat/Desktop/Screen Shot 2024-08-12 at 8.27.52 PM.png" style="width:50%;" />
 
 # Portfolio
 **Data Analytics & Business Intelligence Specialist**
