@@ -1,4 +1,4 @@
-<img src="https://img.pikbest.com/wp/202346/data-analytics-web-banner-and-business-chart-mockup-featuring-a-3d-rendered-seo-user-interface_9621529.jpg!w700wp" alt="Project Portfolio" style="width:100%;" />
+<img src="https://www.widsworldwide.org/wp-content/uploads/2024/08/ID-e1723069784274.jpeg" style="width:100%;" />
 
 # Portfolio
 **Data Analytics & Business Intelligence Specialist**
