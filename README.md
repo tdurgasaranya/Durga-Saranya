@@ -1,4 +1,4 @@
-<img src="https://www.widsworldwide.org/wp-content/uploads/2024/08/ID-e1723069784274.jpeg" style="width:100%;" />
+<img src="https://www.widsworldwide.org/wp-content/uploads/2024/08/ID-e1723069784274.jpeg" style="width:50%;" />
 
 # Portfolio
 **Data Analytics & Business Intelligence Specialist**
