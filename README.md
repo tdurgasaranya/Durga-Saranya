@@ -1,4 +1,4 @@
-<img src="https://ik.imagekit.io/edtechdigit/usdsi/content/images/articles/data-science-skills-vs-tools-what-matters-the-most-for-data-scientists-image.jpg" style="width:120%;" />
+<img src="https://elearningindustry.com/wp-content/uploads/2023/08/The-Impact-Of-Big-Data-Analytics-On-Business-Decision-Making.jpg" style="width:120%;" />
 
 # Portfolio
 **Data Analytics & Business Intelligence Specialist**
