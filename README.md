@@ -1,5 +1,3 @@
-<img src="https://elearningindustry.com/wp-content/uploads/2023/08/The-Impact-Of-Big-Data-Analytics-On-Business-Decision-Making.jpg" style="width:120%;" />
-
 # Portfolio
 **Data Analytics & Business Intelligence Specialist**
 
