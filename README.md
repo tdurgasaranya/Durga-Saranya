@@ -1,4 +1,7 @@
 # Portfolio
+
+**Durga S Tummalapalli**
+
 **Data Analytics & Business Intelligence Specialist**
 
 ---
