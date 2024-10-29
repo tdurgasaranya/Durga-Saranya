@@ -52,7 +52,7 @@ The **MTA Data Challenge** is a project focused on analyzing public transit data
 
 Feel free to reach out for collaboration, queries, or opportunities:
 
-- **Email**: [tdurgasaranya@gmail.com](mailto:durgasaranya999@gmail.com)
+- **Email**: [Gmail](mailto:durgasaranya999@gmail.com)
 - **LinkedIn**: [linkedin.com/in/tdurgasaranya](https://linkedin.com/in/durga-saranya/)
 - **GitHub**: [github.com/tdurgasaranya](https://github.com/tdurgasaranya)
 
