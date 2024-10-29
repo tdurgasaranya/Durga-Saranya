@@ -1,15 +1,13 @@
-# Portfolio
+# Durga S Tummalapalli **Data Analytics, Business Intelligence**
 
-**Durga S Tummalapalli**
 
-**Data Analytics & Business Intelligence Specialist**
-
+***Research Projects Portfolio***
 ---
 
 ## Contents
 - [Introduction](#introduction)
-- [Projects](#project-proof-of-concept-poc)
-- [Projects](#project-proof-of-concept-poc)
+- [NYC MTA Data Challenge](#NYC-MTA-Data-challenge)
+- [Google Techmakers AI Project](#GoogleAI-Women-Techmakers-Project)
 - [Expected Impact](#expected-impact)
 - [Tools & Technologies](#tools--technologies)
 - [Contact Information](#contact-information)
@@ -18,14 +16,23 @@
 
 ## Introduction
 
-Welcome to my professional portfolio. I am Durga Tummalapalli, a Data Analytics and Business Intelligence Specialist with extensive experience in the Supply Chain domain. This portfolio showcases my work in developing advanced analytics solutions, creating impactful reports, and driving data governance strategies that lead to optimized processes and enhanced decision-making.
+Welcome to my professional portfolio. I am Durga Tummalapalli, a Data Analytics and Business Intelligence Specialist with extensive experience in data analytics, reporting within supply chain industry domains. This portfolio showcases my work in developing advanced analytics solutions, creating impactful reports with my research projects.
 
 ---
 
-## Project Proof of Concept (POC)
+## NYC MTA Data Challenge
 
 - Developed automated reporting solutions with Python scripting integrated with SQL and Power BI.
 - Automated data loading and transformation processes, reducing manual workload and enhancing efficiency.
+- Code Repository -
+  
+---
+
+## GoogleAI Women Techmakers Project
+
+- Developed automated reporting solutions with Python scripting integrated with SQL and Power BI.
+- Automated data loading and transformation processes, reducing manual workload and enhancing efficiency.
+- Code Repository - 
 
 ---
 
@@ -40,13 +47,11 @@ Welcome to my professional portfolio. I am Durga Tummalapalli, a Data Analytics 
 
 ## Tools & Technologies
 
-- **Programming Languages:** Python, SQL  
-- **Data Analysis & Machine Learning Libraries:** Pandas, NumPy  
-- **Visualization Tools:** Tableau, Power BI  
-- **IDEs:** IDLE, PyCharm  
-- **Analytical Tools:** SQL Server, SSIS, InforLN, SAP HANA, Snowflake Cloud, FileMaker Pro  
-- **Data Storage & Manipulation:** SQL, CSV, Excel, SharePoint, Snowflake Cloud, Azure  
-- **Collaboration & Version Control:** JIRA, ServiceNow, GitHub
+- **Programming Languages:** Python, SQL, Gen AI, Goole AI studio, Gemini New models  
+- **Data Analysis & Machine Learning Libraries:** Python - Pandas, NumPy  
+- **Visualization Tools:** Power BI, Tableau
+- **Analytical Tools:** SQL Server, Mysql, Sqlite
+- **Version Control:** Git Repo, GitHub
 
 ---
 
@@ -54,7 +59,7 @@ Welcome to my professional portfolio. I am Durga Tummalapalli, a Data Analytics 
 
 **Email:** [Gmail](durgasaranyatumma@gmail.com)  
 **LinkedIn:** [Durga Tummalapalli](https://www.linkedin.com/in/durga-saranya/)  
-**GitHub:** [Durga's GitHub](https://github.com/durga)
+**GitHub:** [Durga's GitHub](https://github.com/tdurgasaranya/Durga-Saranya/)
 
 ---
 
