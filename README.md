@@ -20,19 +20,15 @@ Welcome to my professional portfolio. I am Durga Tummalapalli, a Data Analytics 
 
 ---
 
-## NYC MTA Data Challenge
+## NYC MTA Data Challenge Project
 
-- Developed automated reporting solutions with Python scripting integrated with SQL and Power BI.
-- Automated data loading and transformation processes, reducing manual workload and enhancing efficiency.
-- Code Repository -
+- Git Code Repo: 
   
 ---
 
 ## GoogleAI Women Techmakers Project
 
-- Developed automated reporting solutions with Python scripting integrated with SQL and Power BI.
-- Automated data loading and transformation processes, reducing manual workload and enhancing efficiency.
-- Code Repository - 
+- Git Code Repo: 
 
 ---
 
