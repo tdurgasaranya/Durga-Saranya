@@ -1,61 +1,61 @@
-# Durga S Tummalapalli **Data Analytics, Business Intelligence**
+# Durga S Tummalapalli👩‍💻📊
 
-
-***Research Projects Portfolio***
----
-
-## Contents
-- [Introduction](#introduction)
-- [NYC MTA Data Challenge](#NYC-MTA-Data-challenge)
-- [Google Techmakers AI Project](#GoogleAI-Women-Techmakers-Project)
-- [Expected Impact](#expected-impact)
-- [Tools & Technologies](#tools--technologies)
-- [Contact Information](#contact-information)
+This portfolio showcases my research projects, I am an experienced **Data Analyst** with a strong focus on reporting and data-driven decision-making. I specialize in analyzing large datasets, creating insightful reports, and building dashboards that help organizations make informed decisions. Below are some of my key projects, showcasing my skills in data analysis, reporting, and visualization.
 
 ---
 
-## Introduction
+## Table of Contents
+- [About Me](#about-me)
+- [Skills](#skills)
+- [Projects](#projects)
+  - [MTA Data Challenge](#mta-data-challenge)
+  - [Other Projects](#other-projects)
+- [Contact](#contact)
 
-Welcome to my professional portfolio. I am Durga Tummalapalli, a Data Analytics and Business Intelligence Specialist with extensive experience in data analytics, reporting within supply chain industry domains. This portfolio showcases my work in developing advanced analytics solutions, creating impactful reports with my research projects.
-
----
-
-## NYC MTA Data Challenge Project
-
-- Git Code Repo: 
-  
----
-
-## GoogleAI Women Techmakers Project
-
-- Git Code Repo: 
+**Currently Exploring**: Advanced reporting techniques and real-time data visualization.
 
 ---
 
-## Expected Impact
+## Skills 🛠️
 
-- **Enhanced Decision-Making:** Support more informed and strategic decisions through data-driven insights.
-- **Increased Efficiency:** Optimizing operational processes to achieve cost savings and improved performance.
-- **Predictive Capabilities:** Develop advanced models for proactive forecasting and planning.
-- **Competitive Advantage:** Provide a distinct competitive edge through continuous data-driven improvement.
-
----
-
-## Tools & Technologies
-
-- **Programming Languages:** Python, SQL, Gen AI, Goole AI studio, Gemini New models  
-- **Data Analysis & Machine Learning Libraries:** Python - Pandas, NumPy  
-- **Visualization Tools:** Power BI, Tableau
-- **Analytical Tools:** SQL Server, Mysql, Sqlite
-- **Version Control:** Git Repo, GitHub
+- **Programming**: Python, SQL, SAS, Linux
+- **Databases**: MySQL, Oracle, IBM db2, Snowflake, Amazon Athena S3, S4 Hana Hdb
+- **Version Control**: Git, GitHub
+- **Reporting**: Creating interactive and static reports using **Power BI**, **Tableau**
+- **Data Analysis**: Data cleaning, wrangling, and summarization
+- **Data Visualization**: Building dashboards and visualizations for business insights
 
 ---
 
-## Contact Information
+## Projects
 
-**Email:** [Gmail](durgasaranyatumma@gmail.com)  
-**LinkedIn:** [Durga Tummalapalli](https://www.linkedin.com/in/durga-saranya/)  
-**GitHub:** [Durga's GitHub](https://github.com/tdurgasaranya/Durga-Saranya/)
+### MTA Data Challenge 📊
+[View Project](https://github.com/tdurgasaranya/MTA-Data-Challenge)
+
+The **MTA Data Challenge** is a project focused on analyzing public transit data from the Metropolitan Transportation Authority (MTA) to uncover ridership patterns and provide actionable insights through reports and visualizations.
+
+**Key Highlights**:
+- Processed and cleaned large datasets with millions of rows from MTA's subway turnstile data.
+- Developed interactive visualizations to track station activity, peak ridership times, and entry/exit patterns.
+- Created reports on ridership trends to help transit authorities optimize resource allocation.
+
+**Tools Used**: Python, SQLite, Gen AI, Excel, Power BI, Jupyter Notebooks
 
 ---
 
+### Other Projects 🌟
+
+
+---
+
+## Contact 📧
+
+Feel free to reach out for collaboration, queries, or opportunities:
+
+- **Email**: [tdurgasaranya@gmail.com](mailto:durgasaranya999@gmail.com)
+- **LinkedIn**: [linkedin.com/in/tdurgasaranya](https://linkedin.com/in/durga-saranya/)
+- **GitHub**: [github.com/tdurgasaranya](https://github.com/tdurgasaranya)
+
+---
+
+**Thank you for visiting my portfolio!** 
