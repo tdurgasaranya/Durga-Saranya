@@ -9,9 +9,10 @@ This portfolio showcases my research projects, I am an experienced **Data Analys
 - [Skills](#skills)
 - [Projects](#projects)
   - [MTA Data Challenge](#mta-data-challenge)
-  - [Google AI Data challenge](#GoogleAI-Data-challenge)
+  - [Google AI Data challenge](#google-ai-data-challenge)
 - [Contact](#contact)
 
+  
 **Currently Exploring**: Advanced reporting techniques and real-time data visualization.
 
 ---
