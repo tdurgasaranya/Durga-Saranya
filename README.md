@@ -4,19 +4,6 @@ This portfolio showcases my research projects, I am an experienced **Data Analys
 
 ---
 
-## Table of Contents
-- [About Me](#about-me)
-- [Skills](#skills)
-- [Projects](#projects)
-  - [MTA Data Challenge](https://tdurgasaranya.github.io/Durga-Saranya/#mta-data-challenge-)
-  - [Google AI Data challenge](https://tdurgasaranya.github.io/Durga-Saranya/#googleai-data-challenge)
-- [Contact](#contact)
-
-  
-**Currently Exploring**: Advanced reporting techniques and real-time data visualization.
-
----
-
 ## Skills 🛠️
 
 - **Programming**: SQL, Python, SAS, Linux
