@@ -8,8 +8,8 @@ This portfolio showcases my research projects, I am an experienced **Data Analys
 - [About Me](#about-me)
 - [Skills](#skills)
 - [Projects](#projects)
-  - [MTA Data Challenge](#mta-data-challenge)
-  - [Google AI Data challenge](#google-ai-data-challenge)
+  - [MTA Data Challenge]([#mta-data-challenge](https://tdurgasaranya.github.io/Durga-Saranya/#mta-data-challenge-))
+  - [Google AI Data challenge](https://tdurgasaranya.github.io/Durga-Saranya/#googleai-data-challenge)
 - [Contact](#contact)
 
   
