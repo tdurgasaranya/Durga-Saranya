@@ -1,4 +1,4 @@
-# Durga S Tummalapalli👩‍💻📊
+# Portfolio
 
 This portfolio showcases my research projects, I am an experienced **Data Analyst** with a strong focus on reporting and data-driven decision-making. I specialize in analyzing large datasets, creating insightful reports, and building dashboards that help organizations make informed decisions. Below are some of my key projects, showcasing my skills in data analysis, reporting, and visualization.
 
@@ -43,7 +43,7 @@ The **MTA Data Challenge** is a project focused on analyzing public transit data
 ---
 
 ### GoogleAI Data challenge
-[View Project Repo]()
+[View Project Repo](https://github.com/tdurgasaranya/GoogleAI-Data-Challenge)
 
 Project Title: Analyzing Gender Bias in Tech Layoffs: A Data-Driven Approach
 Project Description:
@@ -57,11 +57,11 @@ Methodology:
 - Data Analysis: Extracted key data points from the sources, including percentages, ratios, and trends.
 - Visualizations: Created simple visualizations (bar charts) to present the key findings and highlight the discrepancies.
 
-# Key Findings: Women are disproportionately represented in tech layoffs.
+Key Findings: Women are disproportionately represented in tech layoffs.
 Women experience significantly higher earnings losses than men following layoffs.
 While the difference in finding new jobs may be smaller, the combination of higher layoff rates and greater earnings losses for women creates a significant disadvantage.
 
-# Impact:
+Impact:
 The findings highlight the need for greater awareness of gender bias in tech layoffs and the importance of addressing these issues.
 This project provides a foundation for further research and could contribute to initiatives aimed at promoting gender equity in the tech industry.
 
@@ -70,9 +70,9 @@ This project provides a foundation for further research and could contribute to 
 - Data Analysis: Processed and analyzed the collected data to identify key trends and patterns.
 - Data Visualization: Created simple graphs (bar charts) to communicate the findings effectively.
 
-# Additional Points & Challenges: Mention any challenges you encountered during the project, such as difficulties finding specific data points or dealing with data inconsistencies.
+Additional Points & Challenges: Mention any challenges you encountered during the project, such as difficulties finding specific data points or dealing with data inconsistencies.
 
-# Future Work: Suggest potential future steps to further explore the topic, like:
+Future Work: Suggest potential future steps to further explore the topic, like:
 - Analyzing data from a larger sample size
 - Investigating the causes of the observed gender disparities
 - Exploring potential solutions to address the gender bias in tech layoffs
