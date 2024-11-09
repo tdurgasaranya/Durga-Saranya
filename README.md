@@ -73,12 +73,7 @@ Future Work: Suggest potential future steps to further explore the topic, like:
 
 ## Contact 📧
 
-Feel free to reach out for collaboration, queries, or opportunities:
-
 - **Email**: [Gmail](mailto:durgasaranya999@gmail.com)
-- **LinkedIn**: [linkedin.com/in/tdurgasaranya](https://linkedin.com/in/durga-saranya/)
 - **GitHub**: [github.com/tdurgasaranya](https://github.com/tdurgasaranya)
-
----
 
 **Thank you for visiting my portfolio!** 
