@@ -9,10 +9,10 @@ This portfolio showcases my research projects, I am an experienced **Data Analys
 
 ## Skills 🛠️
 
-- **Programming**: SQL, Python, SAS, Linux
-- **Databases**: MySQL, Oracle, IBM db2, Snowflake, Amazon Athena S3, S4 Hana Hdb
-- **Version Control**: Git, GitHub
+- **Programming**: SQL, Python, DAX, SAS, Linux
+- **Databases**: MySQL, Oracle, IBM Db2, Cloud dba - Snowflake, Amazon Athena S3, S4 Hana Hdb
 - **Reporting**: **Power BI**, **Tableau** Building dashboards and visualizations for business insights
+- **Version Control**: Git, GitHub
 - **Data Analytics**: Data cleaning, modeling, data governance, wrangling
 
 ---
