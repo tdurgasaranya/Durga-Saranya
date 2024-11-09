@@ -1,5 +1,7 @@
 # Portfolio
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="durga-saranya" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/durga-saranya?trk=profile-badge">Durga S.</a></div>
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/durga-saranya)
+
               
 This portfolio showcases my research projects, I am an experienced **Data Analyst** with a strong focus on reporting and data-driven decision-making. I specialize in analyzing large datasets, creating insightful reports, and building dashboards that help organizations make informed decisions. Below are some of my key projects, showcasing my skills in data analysis, reporting, and visualization.
 
