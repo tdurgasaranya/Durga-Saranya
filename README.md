@@ -56,7 +56,7 @@ Impact:
 The findings highlight the need for greater awareness of gender bias in tech layoffs and the importance of addressing these issues.
 This project provides a foundation for further research and could contribute to initiatives aimed at promoting gender equity in the tech industry.
 
---- Technical Keypoints:
+Technical Keypoints:
 - Web Scraping: Used programming skills (likely Python) and libraries like BeautifulSoup to extract data from websites.
 - Data Analysis: Processed and analyzed the collected data to identify key trends and patterns.
 - Data Visualization: Created simple graphs (bar charts) to communicate the findings effectively.
