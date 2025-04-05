@@ -1,4 +1,4 @@
-# Portfolio: Durga S. Tummalapalli
+# Portfolio
 ![Durga S. Tummalapalli](https://media.licdn.com/dms/image/v2/D4E16AQG3rZpBZPzRBA/profile-displaybackgroundimage-shrink_350_1400/B4EZYIE3nyHgAY-/0/1743892219797?e=1749081600&v=beta&t=TDkvjbu8gkI8m5R5wwaPLeP8SAIiJ2fKu2GbxUeMQBM)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/durga-saranya)
