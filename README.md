@@ -1,5 +1,5 @@
 # Portfolio
-![Durga S. Tummalapalli](https://media.licdn.com/dms/image/v2/D4E16AQG3rZpBZPzRBA/profile-displaybackgroundimage-shrink_350_1400/B4EZYIE3nyHgAY-/0/1743892219797?e=1749081600&v=beta&t=TDkvjbu8gkI8m5R5wwaPLeP8SAIiJ2fKu2GbxUeMQBM)
+![Durga S. Tummalapalli](https://www.gvsu.edu/cms4/asset/CBDF1772-FE72-ADA2-A9DE6880C34873E7/module/BD778FF4-B40D-13D9-883F128CAEF726C8/BDC707E2-F145-C1EC-5E6C1A537140EFF8[1726666577].jpg)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/durga-saranya)
 
