@@ -22,33 +22,20 @@ My projects demonstrate strong analytical skills, data governance, and a commitm
 
 # Skills
 
-## Programming
-- SQL
-- Python
-- DAX
-- SAS
-- Linux
+## Programming :
+- SQL, Python, DAX, SAS, R, Linux
 
 ## Databases
-- MySQL
-- Oracle
-- IBM Db2
-- Snowflake
-- Amazon Athena
-- S4 Hana Hdb
+- MySQL, Oracle, IBM Db2, Snowflake, Amazon Athena S3, SAP Hdb studio
 
-## Reporting & Visualization
-- Power BI
-- Tableau
-- Dashboard Development
+## Reporting & Visualizatio
+- Power BI, Tableau, Qlik sense
 
 ## Data Analytics
-- Data Cleaning
-- Modeling
-- Governance
-- Wrangling
-- Git
-- GitHub
+- Data Cleaning, Modeling, Governance, Wrangling
+
+## Data Version control
+- Git, GitHub, Sharepoint, Google Collab
 
 ---
 
