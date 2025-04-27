@@ -3,71 +3,99 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/durga-saranya)
 
-              
-This portfolio showcases my research projects, I am an experienced **Data Analyst** with a strong focus on reporting and data-driven decision-making. I specialize in analyzing large datasets, creating insightful reports, and building dashboards that help organizations make informed decisions. Below are some of my key projects, showcasing my skills in data analysis, reporting, and visualization.
+---
+title: "Durga-Saranya | Data Analyst Portfolio"
+author: "Durga-Saranya"
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    css: styles.css
+    toc: true
+    toc_depth: 2
+    toc_float: true
+    number_sections: false
+    highlight: textmate
+---
+
+# Durga-Saranya
+
+**Data Analyst | Specializing in Reporting & Data-Driven Insights**
+
+[LinkedIn](https://linkedin.com/in/durgasaranya) • [GitHub](https://github.com/durgasaranya) • [Email](mailto:durgasaranyatumma@gmail.com)
 
 ---
 
-## Skills 🛠️
+# About Me
 
-- **Programming**: SQL, Python, DAX, SAS, Linux
-- **Databases**: MySQL, Oracle, IBM Db2, Cloud dba - Snowflake, Amazon Athena S3, S4 Hana Hdb
-- **Reporting**: **Power BI**, **Tableau** Building dashboards and visualizations for business insights
-- **Version Control**: Git, GitHub
-- **Data Analytics**: Data cleaning, modeling, data governance, wrangling
-
----
-
-## Projects
-
-### MTA Data Challenge 📊
-[View Project Repo](https://github.com/tdurgasaranya/MTA-Data-Challenge)
-
-The **MTA Data Challenge** is a project focused on analyzing public transit data from the Metropolitan Transportation Authority (MTA) to uncover ridership patterns and provide actionable insights through reports and visualizations.
-
-**Key Highlights**:
-- Processed and cleaned large datasets with millions of rows from MTA's subway turnstile data.
-- Developed interactive visualizations to track station activity, peak ridership times, and entry/exit patterns.
-- Created reports on ridership trends to help transit authorities optimize resource allocation.
-
-**Tools Used**: Python, SQLite, Gen AI, Excel, Power BI, Jupyter Notebooks
+I am a skilled Data Analyst with expertise in transforming complex datasets into actionable insights.  
+Proficient in SQL, Python, and advanced visualization tools like Power BI and Tableau,  
+I specialize in creating impactful reports and dashboards to drive business decisions.  
+My projects demonstrate strong analytical skills, data governance, and a commitment to delivering value.
 
 ---
 
-### GoogleAI Data challenge
-[View Project Repo](https://github.com/tdurgasaranya/GoogleAI-Data-Challenge)
+# Skills
 
-Project Title: Analyzing Gender Bias in Tech Layoffs: A Data-Driven Approach
-Project Description:
-Goal: To analyze data from various sources to understand the gender disparity in tech layoffs, specifically focusing on the following:
-Gender distribution in tech layoffs
-Comparison of earnings losses for women and men
-Number of laid-off employees who found new jobs between men and women
-Methodology:
+## Programming
+- SQL
+- Python
+- DAX
+- SAS
+- Linux
 
-- Data Collection: Identified and gathered relevant data from multiple online sources (articles, reports, websites) related to tech layoffs     and gender bias.
-- Data Analysis: Extracted key data points from the sources, including percentages, ratios, and trends.
-- Visualizations: Created simple visualizations (bar charts) to present the key findings and highlight the discrepancies.
+## Databases
+- MySQL
+- Oracle
+- IBM Db2
+- Snowflake
+- Amazon Athena
+- S4 Hana Hdb
 
-Key Findings: Women are disproportionately represented in tech layoffs.
-Women experience significantly higher earnings losses than men following layoffs.
-While the difference in finding new jobs may be smaller, the combination of higher layoff rates and greater earnings losses for women creates a significant disadvantage.
+## Reporting & Visualization
+- Power BI
+- Tableau
+- Dashboard Development
 
-Impact:
-The findings highlight the need for greater awareness of gender bias in tech layoffs and the importance of addressing these issues.
-This project provides a foundation for further research and could contribute to initiatives aimed at promoting gender equity in the tech industry.
-
-Technical Keypoints:
-- Web Scraping: Used programming skills (likely Python) and libraries like BeautifulSoup to extract data from websites.
-- Data Analysis: Processed and analyzed the collected data to identify key trends and patterns.
-- Data Visualization: Created simple graphs (bar charts) to communicate the findings effectively.
-
+## Data Analytics
+- Data Cleaning
+- Modeling
+- Governance
+- Wrangling
+- Git
+- GitHub
 
 ---
 
-## Contact 📧
+# Projects
 
-- **Email**: [Gmail](mailto:durgasaranya999@gmail.com)
-- **GitHub**: [github.com/tdurgasaranya](https://github.com/tdurgasaranya)
+## [MTA Data Challenge](https://github.com/durgasaranya/mta-data-challenge)
 
-**Thank you for visiting my portfolio!** 
+Analyzed MTA subway turnstile data to uncover ridership patterns and optimize resource allocation.  
+Processed millions of rows, developed interactive visualizations, and created detailed reports on peak times and station activity.
+
+**Tools:** Python, SQLite, Power BI, Excel, Jupyter Notebooks, Gen AI
+
+---
+
+## [Google AI Data Challenge: Gender Bias in Tech Layoffs](https://github.com/durgasaranya/google-ai-challenge)
+
+Investigated gender disparities in tech layoffs by analyzing layoff rates, earnings losses, and reemployment trends.  
+Used web scraping and data visualization to highlight significant disadvantages for women, advocating for equity in the tech industry.
+
+**Tools:** Python, BeautifulSoup, Tableau, Excel
+
+**Challenges:** Overcame inconsistent data sources and limited sample sizes.
+
+**Future Work:** Expand sample size, investigate causes of disparities, and propose solutions.
+
+---
+
+# Contact
+
+- **Email:** [durgasaranya@gmail.com](mailto:durgasaranyatumma@gmail.com)
+- **LinkedIn:** [linkedin.com/in/durgasaranya](https://linkedin.com/in/durgasaranya)
+- **GitHub:** [github.com/durgasaranya](https://github.com/durgasaranya)
+
+---
+
+<center>© 2025 Durga-Saranya. All rights reserved.</center>
