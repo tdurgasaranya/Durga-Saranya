@@ -1,9 +1,10 @@
+# Durga-Saranya
+
 # Portfolio
 ![Durga S. Tummalapalli](https://media.licdn.com/dms/image/v2/D4E03AQGLPg67yumXUg/profile-displayphoto-shrink_400_400/B4EZZy7QDpHQAg-/0/1745684858360?e=1750896000&v=beta&t=JoUzKq3AGNjhK-I5HLuq7tHmIB0_jGQSDlbbtGcNK48)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/durga-saranya)
 
-# Durga-Saranya
 
 **Data Analyst | Specializing in Reporting & Data-Driven Insights**
 
