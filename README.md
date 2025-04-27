@@ -3,20 +3,6 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/durga-saranya)
 
----
-title: "Durga-Saranya | Data Analyst Portfolio"
-author: "Durga-Saranya"
-date: "`r Sys.Date()`"
-output:
-  html_document:
-    css: styles.css
-    toc: true
-    toc_depth: 2
-    toc_float: true
-    number_sections: false
-    highlight: textmate
----
-
 # Durga-Saranya
 
 **Data Analyst | Specializing in Reporting & Data-Driven Insights**
