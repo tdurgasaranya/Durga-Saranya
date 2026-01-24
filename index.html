@@ -5,118 +5,70 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Durga Saranya | Data Analytics & BI Portfolio</title>
 
-  <!-- Tailwind CDN -->
+  <!-- Tailwind CSS -->
   <script src="https://cdn.tailwindcss.com"></script>
-
   <style>
     body { scroll-behavior: smooth; }
-    .card:hover { transform: translateY(-4px); transition: all 0.3s ease; }
+    .section-title { font-size: 1.875rem; font-weight: 700; color: #1f2937; }
+    .neutral-bg { background-color: #f8fafc; }
+    .card { transition: transform 0.3s ease, box-shadow 0.3s ease; }
+    .card:hover { transform: translateY(-3px); box-shadow: 0px 8px 20px rgba(0,0,0,0.12); }
   </style>
 </head>
 
-<body class="bg-slate-50 text-slate-800">
+<body class="font-sans antialiased text-gray-800">
 
 <!-- NAVBAR -->
-<nav class="fixed w-full bg-white shadow z-50">
-  <div class="max-w-7xl mx-auto flex justify-between items-center px-6 py-4">
-    <h1 class="text-xl font-bold text-blue-700">Durga Saranya</h1>
-    <div class="space-x-6 hidden md:flex font-medium">
-      <a href="#about" class="hover:text-blue-600">About</a>
-      <a href="#experience" class="hover:text-blue-600">Experience</a>
-      <a href="#skills" class="hover:text-blue-600">Skills</a>
-      <a href="#projects" class="hover:text-blue-600">Projects</a>
-      <a href="#contact" class="hover:text-blue-600">Contact</a>
+<nav class="fixed w-full bg-white shadow-md z-30">
+  <div class="max-w-6xl mx-auto px-6 py-4 flex justify-between items-center">
+    <h1 class="text-xl font-bold">Durga Saranya</h1>
+    <div class="space-x-6 hidden md:flex text-sm text-gray-700 font-medium">
+      <a href="#about" class="hover:text-gray-900">About</a>
+      <a href="#skills" class="hover:text-gray-900">Skills</a>
+      <a href="#projects" class="hover:text-gray-900">Projects</a>
+      <a href="#contact" class="hover:text-gray-900">Contact</a>
     </div>
   </div>
 </nav>
 
 <!-- HERO -->
-<section class="pt-32 pb-24 bg-gradient-to-b from-white to-blue-50 text-center">
-  <h2 class="text-5xl font-extrabold mb-4">Transforming Data into Decisions</h2>
-  <p class="text-xl max-w-3xl mx-auto text-slate-600">
-    Lead BI Developer & Data Analyst with 7+ years of experience delivering
-    high-impact analytics across Supply Chain, Finance, and Operations.
-  </p>
-
-  <div class="mt-8 flex justify-center gap-4">
-    <a href="https://linkedin.com/in/durga-saranya" target="_blank"
-      class="px-6 py-3 bg-blue-600 text-white rounded-lg font-semibold">LinkedIn</a>
-    <a href="https://github.com/tdurgasaranya" target="_blank"
-      class="px-6 py-3 bg-slate-800 text-white rounded-lg font-semibold">GitHub</a>
-    <a href="https://tdurgasaranya.github.io/AI_Applications/#projects" target="_blank"
-      class="px-6 py-3 bg-purple-600 text-white rounded-lg font-semibold">AI Projects</a>
-  </div>
-</section>
-
-<!-- METRICS -->
-<section class="max-w-7xl mx-auto px-6 py-20">
-  <div class="grid grid-cols-2 md:grid-cols-5 gap-6 text-center">
-    <div class="bg-blue-600 text-white p-8 rounded-xl shadow">
-      <p class="text-4xl font-bold">50+</p><p>Dashboards</p>
-    </div>
-    <div class="bg-green-600 text-white p-8 rounded-xl shadow">
-      <p class="text-4xl font-bold">65%</p><p>Efficiency Gain</p>
-    </div>
-    <div class="bg-purple-600 text-white p-8 rounded-xl shadow">
-      <p class="text-4xl font-bold">80%</p><p>Performance Boost</p>
-    </div>
-    <div class="bg-indigo-600 text-white p-8 rounded-xl shadow">
-      <p class="text-4xl font-bold">70%</p><p>Data Reliability</p>
-    </div>
-    <div class="bg-pink-600 text-white p-8 rounded-xl shadow">
-      <p class="text-4xl font-bold">~100%</p><p>Accuracy</p>
+<header class="pt-32 pb-20 neutral-bg text-center">
+  <div class="max-w-4xl mx-auto">
+    <h2 class="text-4xl font-bold mb-3">Data Analytics & Business Intelligence Professional</h2>
+    <p class="text-lg text-gray-700 max-w-3xl mx-auto">
+      Leading BI solutions with strong data pipelines, reporting frameworks, and insight delivery. 7+ years experience across Supply Chain, Finance, and Operations.
+    </p>
+    <div class="mt-8 space-x-4">
+      <a href="https://linkedin.com/in/durga-saranya" target="_blank" class="px-5 py-3 border border-gray-800 text-gray-800 font-medium rounded-lg">LinkedIn</a>
+      <a href="https://github.com/tdurgasaranya" target="_blank" class="px-5 py-3 border border-gray-800 text-gray-800 font-medium rounded-lg">GitHub</a>
+      <a href="mailto:durgasaranyatumma@gmail.com" class="px-5 py-3 border border-gray-800 text-gray-800 font-medium rounded-lg">Email</a>
     </div>
   </div>
-</section>
+</header>
 
 <!-- ABOUT -->
-<section id="about" class="bg-white py-20">
-  <div class="max-w-6xl mx-auto px-6">
-    <h3 class="text-3xl font-bold text-blue-700 mb-6">About Me</h3>
-    <p class="text-lg text-slate-700 leading-relaxed">
-      I am a Data Analytics and Business Intelligence professional with deep
-      experience designing scalable dashboards, automated ETL pipelines,
-      and executive reporting solutions. I specialize in turning raw data
-      into actionable insights that drive measurable business impact.
-    </p>
-  </div>
-</section>
-
-<!-- EXPERIENCE -->
-<section id="experience" class="bg-slate-100 py-20">
-  <div class="max-w-6xl mx-auto px-6">
-    <h3 class="text-3xl font-bold text-blue-700 mb-10">Experience</h3>
-
-    <div class="bg-white p-8 rounded-xl shadow card">
-      <h4 class="text-xl font-semibold">Lead BI Developer — Blue Bird Body Company</h4>
-      <p class="text-slate-600 mt-2">Business Intelligence & Analytics</p>
-      <ul class="list-disc list-inside mt-4 text-slate-700 space-y-2">
-        <li>Built executive dashboards supporting finance, supply chain, and operations</li>
-        <li>Automated ETL pipelines improving reporting efficiency by 65%</li>
-        <li>Designed scalable data models with high accuracy and reliability</li>
-      </ul>
-    </div>
-  </div>
+<section id="about" class="py-16 max-w-5xl mx-auto px-6">
+  <h3 class="section-title mb-4">About Me</h3>
+  <p class="text-gray-700 leading-relaxed">
+    I am a Data Analyst and BI Developer with 7+ years of experience building executive dashboards, scalable ETL processes, and reporting solutions that drive measurable business outcomes.
+  </p>
 </section>
 
 <!-- SKILLS -->
-<section id="skills" class="bg-white py-20">
-  <div class="max-w-6xl mx-auto px-6">
-    <h3 class="text-3xl font-bold text-blue-700 mb-10">Skills & Tools</h3>
-
-    <div class="grid md:grid-cols-3 gap-6">
-      <div class="card bg-slate-50 p-6 rounded-xl shadow">
-        <h4 class="font-semibold mb-3">BI & Analytics</h4>
-        <p>Power BI, Tableau, DAX, KPI Design</p>
+<section id="skills" class="neutral-bg py-16">
+  <div class="max-w-5xl mx-auto px-6">
+    <h3 class="section-title mb-6">Skills & Tools</h3>
+    <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+      <div class="card bg-white p-6 rounded-lg border">
+        <h4 class="font-semibold mb-2">Business Intelligence</h4>
+        <p>Power BI, Tableau, Executive Dashboards</p>
       </div>
-
-      <div class="card bg-slate-50 p-6 rounded-xl shadow">
-        <h4 class="font-semibold mb-3">Data Engineering</h4>
-        <p>SQL, Python, PySpark, ETL Automation</p>
+      <div class="card bg-white p-6 rounded-lg border">
+        <h4 class="font-semibold mb-2">Data Engineering</h4>
+        <p>SQL, Python, PySpark, ETL Pipelines</p>
       </div>
-
-      <div class="card bg-slate-50 p-6 rounded-xl shadow">
-        <h4 class="font-semibold mb-3">Cloud & Platforms</h4>
+      <div class="card bg-white p-6 rounded-lg border">
+        <h4 class="font-semibold mb-2">Cloud & Platforms</h4>
         <p>AWS, Snowflake, Azure Data Lake, Databricks</p>
       </div>
     </div>
@@ -124,46 +76,40 @@
 </section>
 
 <!-- PROJECTS -->
-<section id="projects" class="bg-slate-100 py-20">
-  <div class="max-w-7xl mx-auto px-6">
-    <h3 class="text-3xl font-bold text-blue-700 mb-10 text-center">Projects</h3>
+<section id="projects" class="py-16 max-w-6xl mx-auto px-6">
+  <h3 class="section-title mb-8">Projects & Work Showcase</h3>
 
-    <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-      <div class="card bg-white p-6 rounded-xl shadow">
-        <h4 class="font-semibold text-lg">Power BI Dashboards</h4>
-        <p class="mt-2 text-slate-600">Advanced dashboards with DAX & SQL</p>
-        <a href="https://github.com/tdurgasaranya/Power-BI-Projects" class="text-blue-600 mt-3 inline-block">View Repo</a>
-      </div>
+  <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+    <!-- PROJECT CARD -->
+    <div class="card bg-white rounded-lg p-6 border">
+      <h4 class="font-semibold text-lg">Power BI Dashboards</h4>
+      <p class="mt-2 text-gray-700">Advanced reports and KPI frameworks with DAX and data modeling.</p>
+      <a href="https://github.com/tdurgasaranya/Power-BI-Projects" class="mt-3 inline-block text-gray-800 font-medium">View Repo</a>
+    </div>
 
-      <div class="card bg-white p-6 rounded-xl shadow">
-        <h4 class="font-semibold text-lg">Data Engineering</h4>
-        <p class="mt-2 text-slate-600">ETL pipelines & cloud workflows</p>
-        <a href="https://github.com/tdurgasaranya/Data-Engineering" class="text-blue-600 mt-3 inline-block">View Repo</a>
-      </div>
+    <div class="card bg-white rounded-lg p-6 border">
+      <h4 class="font-semibold text-lg">Data Engineering</h4>
+      <p class="mt-2 text-gray-700">ETL pipelines and data workflows using Python, PySpark & Snowflake.</p>
+      <a href="https://github.com/tdurgasaranya/Data-Engineering" class="mt-3 inline-block text-gray-800 font-medium">View Repo</a>
+    </div>
 
-      <div class="card bg-white p-6 rounded-xl shadow">
-        <h4 class="font-semibold text-lg">AI Applications</h4>
-        <p class="mt-2 text-slate-600">AI-driven analytics platforms</p>
-        <a href="https://tdurgasaranya.github.io/AI_Applications/#projects" class="text-blue-600 mt-3 inline-block">View Projects</a>
-      </div>
+    <div class="card bg-white rounded-lg p-6 border">
+      <h4 class="font-semibold text-lg">AI Insights & Analytics</h4>
+      <p class="mt-2 text-gray-700">AI analytics projects and applications.</p>
+      <a href="https://tdurgasaranya.github.io/AI_Applications/#projects" class="mt-3 inline-block text-gray-800 font-medium">Explore Projects</a>
     </div>
   </div>
 </section>
 
 <!-- CONTACT -->
-<section id="contact" class="bg-gradient-to-r from-blue-50 to-indigo-50 py-20 text-center">
-  <h3 class="text-3xl font-bold text-blue-700 mb-4">Let’s Connect</h3>
-  <p class="text-lg text-slate-700">Open to analytics, BI, and data engineering opportunities</p>
-
-  <div class="mt-6 space-y-2">
-    <p>Email: <a href="mailto:durgasaranyatumma@gmail.com" class="text-blue-600 font-semibold">durgasaranyatumma@gmail.com</a></p>
-    <p>GitHub: <a href="https://github.com/tdurgasaranya" class="text-blue-600 font-semibold">github.com/tdurgasaranya</a></p>
-    <p>LinkedIn: <a href="https://linkedin.com/in/durga-saranya" class="text-blue-600 font-semibold">linkedin.com/in/durga-saranya</a></p>
-  </div>
+<section id="contact" class="neutral-bg py-16 text-center">
+  <h3 class="section-title mb-4">Contact</h3>
+  <p class="text-gray-700 mb-3">Feel free to reach out for collaborations or opportunities.</p>
+  <p class="text-gray-800 font-medium">Email: <a href="mailto:durgasaranyatumma@gmail.com">durgasaranyatumma@gmail.com</a></p>
 </section>
 
-<footer class="bg-slate-900 text-white text-center py-6">
-  © 2025 Durga Saranya. All rights reserved.
+<footer class="bg-white text-center py-6 text-sm text-gray-600">
+  © 2025 Durga Saranya
 </footer>
 
 </body>
