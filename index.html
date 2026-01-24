@@ -3,109 +3,126 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Durga Saranya | Data Analytics & BI Portfolio</title>
-
+  <title>Durga Saranya - Data Analytics & BI Portfolio</title>
+  
   <!-- Tailwind CSS -->
   <script src="https://cdn.tailwindcss.com"></script>
   <style>
-    body { scroll-behavior: smooth; }
+    html { scroll-behavior: smooth; }
     .section-title { font-size: 1.875rem; font-weight: 700; color: #1f2937; }
-    .neutral-bg { background-color: #f8fafc; }
+    .nav-link:hover { color: #111827; }
     .card { transition: transform 0.3s ease, box-shadow 0.3s ease; }
-    .card:hover { transform: translateY(-3px); box-shadow: 0px 8px 20px rgba(0,0,0,0.12); }
+    .card:hover { transform: translateY(-4px); box-shadow: 0 8px 20px rgba(0,0,0,0.1); }
   </style>
 </head>
 
-<body class="font-sans antialiased text-gray-800">
+<body class="bg-white text-gray-800 font-sans">
 
-<!-- NAVBAR -->
-<nav class="fixed w-full bg-white shadow-md z-30">
-  <div class="max-w-6xl mx-auto px-6 py-4 flex justify-between items-center">
-    <h1 class="text-xl font-bold">Durga Saranya</h1>
-    <div class="space-x-6 hidden md:flex text-sm text-gray-700 font-medium">
-      <a href="#about" class="hover:text-gray-900">About</a>
-      <a href="#skills" class="hover:text-gray-900">Skills</a>
-      <a href="#projects" class="hover:text-gray-900">Projects</a>
-      <a href="#contact" class="hover:text-gray-900">Contact</a>
+<!-- NAVIGATION -->
+<nav class="fixed top-0 w-full bg-white shadow-md z-50">
+  <div class="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
+    <div class="text-xl font-semibold">Durga Saranya</div>
+    <div class="space-x-6 text-sm font-medium hidden md:flex text-gray-700">
+      <a href="#about" class="nav-link">About</a>
+      <a href="#experience" class="nav-link">Experience</a>
+      <a href="#skills" class="nav-link">Skills</a>
+      <a href="#projects" class="nav-link">Projects</a>
+      <a href="#contact" class="nav-link">Contact</a>
     </div>
   </div>
 </nav>
 
 <!-- HERO -->
-<header class="pt-32 pb-20 neutral-bg text-center">
-  <div class="max-w-4xl mx-auto">
-    <h2 class="text-4xl font-bold mb-3">Data Analytics & Business Intelligence Professional</h2>
-    <p class="text-lg text-gray-700 max-w-3xl mx-auto">
-      Leading BI solutions with strong data pipelines, reporting frameworks, and insight delivery. 7+ years experience across Supply Chain, Finance, and Operations.
-    </p>
+<header class="pt-32 pb-24 text-center bg-neutral-50">
+  <div class="max-w-3xl mx-auto px-6">
+    <h1 class="text-4xl font-bold text-gray-900">Data Analytics & Business Intelligence Professional</h1>
+    <p class="mt-4 text-lg text-gray-700">Delivering insight-driven analytics, BI solutions, and scalable data pipelines that enable better decisions across business functions.</p>
     <div class="mt-8 space-x-4">
-      <a href="https://linkedin.com/in/durga-saranya" target="_blank" class="px-5 py-3 border border-gray-800 text-gray-800 font-medium rounded-lg">LinkedIn</a>
-      <a href="https://github.com/tdurgasaranya" target="_blank" class="px-5 py-3 border border-gray-800 text-gray-800 font-medium rounded-lg">GitHub</a>
-      <a href="mailto:durgasaranyatumma@gmail.com" class="px-5 py-3 border border-gray-800 text-gray-800 font-medium rounded-lg">Email</a>
+      <a href="https://linkedin.com/in/durga-saranya" target="_blank" class="px-5 py-3 border border-gray-900 text-gray-900 rounded-lg text-sm font-medium">LinkedIn</a>
+      <a href="https://github.com/tdurgasaranya" target="_blank" class="px-5 py-3 border border-gray-900 text-gray-900 rounded-lg text-sm font-medium">GitHub</a>
+      <a href="mailto:durgasaranyatumma@gmail.com" class="px-5 py-3 border border-gray-900 text-gray-900 rounded-lg text-sm font-medium">Email</a>
     </div>
   </div>
 </header>
 
 <!-- ABOUT -->
 <section id="about" class="py-16 max-w-5xl mx-auto px-6">
-  <h3 class="section-title mb-4">About Me</h3>
+  <h2 class="section-title mb-4">About Me</h2>
   <p class="text-gray-700 leading-relaxed">
-    I am a Data Analyst and BI Developer with 7+ years of experience building executive dashboards, scalable ETL processes, and reporting solutions that drive measurable business outcomes.
+    I am a seasoned Data Analyst and BI Developer with over 7 years of experience creating analytical platforms, automated ETL workflows, and executive reporting that supports strategic decision-making across supply chain, finance, and operations.
   </p>
 </section>
 
-<!-- SKILLS -->
-<section id="skills" class="neutral-bg py-16">
+<!-- EXPERIENCE -->
+<section id="experience" class="bg-neutral-50 py-16">
   <div class="max-w-5xl mx-auto px-6">
-    <h3 class="section-title mb-6">Skills & Tools</h3>
+    <h2 class="section-title mb-6">Experience</h2>
+
+    <div class="card bg-white p-6 rounded-lg border">
+      <h3 class="font-semibold text-lg">Lead BI Developer — Blue Bird Body Company</h3>
+      <p class="mt-2 text-gray-700">Leading BI initiatives, dashboard frameworks, and data reliability improvements.</p>
+      <ul class="mt-4 list-disc list-inside text-gray-700 space-y-2">
+        <li>Designed executive dashboards that inform strategic business decisions.</li>
+        <li>Built automated ETL processes that improved report efficiency by over 60%.</li>
+        <li>Enhanced data models to support scalable analytics adoption across teams.</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<!-- SKILLS -->
+<section id="skills" class="py-16">
+  <div class="max-w-5xl mx-auto px-6">
+    <h2 class="section-title mb-6">Skills & Tools</h2>
     <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
       <div class="card bg-white p-6 rounded-lg border">
-        <h4 class="font-semibold mb-2">Business Intelligence</h4>
-        <p>Power BI, Tableau, Executive Dashboards</p>
+        <h4 class="font-semibold">Business Intelligence</h4>
+        <p class="mt-2 text-gray-700">Power BI, Tableau, KPI Design, Executive Dashboards</p>
       </div>
       <div class="card bg-white p-6 rounded-lg border">
-        <h4 class="font-semibold mb-2">Data Engineering</h4>
-        <p>SQL, Python, PySpark, ETL Pipelines</p>
+        <h4 class="font-semibold">Data Engineering</h4>
+        <p class="mt-2 text-gray-700">SQL (PostgreSQL, MySQL), Python, ETL Automation</p>
       </div>
       <div class="card bg-white p-6 rounded-lg border">
-        <h4 class="font-semibold mb-2">Cloud & Platforms</h4>
-        <p>AWS, Snowflake, Azure Data Lake, Databricks</p>
+        <h4 class="font-semibold">Cloud Platforms</h4>
+        <p class="mt-2 text-gray-700">AWS, Snowflake, Azure Data Lake, Databricks</p>
       </div>
     </div>
   </div>
 </section>
 
 <!-- PROJECTS -->
-<section id="projects" class="py-16 max-w-6xl mx-auto px-6">
-  <h3 class="section-title mb-8">Projects & Work Showcase</h3>
+<section id="projects" class="bg-neutral-50 py-16">
+  <div class="max-w-7xl mx-auto px-6">
+    <h2 class="section-title mb-8">Highlighted Projects</h2>
 
-  <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-    <!-- PROJECT CARD -->
-    <div class="card bg-white rounded-lg p-6 border">
-      <h4 class="font-semibold text-lg">Power BI Dashboards</h4>
-      <p class="mt-2 text-gray-700">Advanced reports and KPI frameworks with DAX and data modeling.</p>
-      <a href="https://github.com/tdurgasaranya/Power-BI-Projects" class="mt-3 inline-block text-gray-800 font-medium">View Repo</a>
-    </div>
+    <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+      <div class="card bg-white p-6 rounded-lg border">
+        <h4 class="font-semibold text-lg">Power BI Dashboards</h4>
+        <p class="mt-2 text-gray-700">Advanced dashboards with KPIs, DAX, and executive insights.</p>
+        <a href="https://github.com/tdurgasaranya/Power-BI-Projects" class="text-gray-900 font-medium mt-3 inline-block text-sm">View Repo</a>
+      </div>
 
-    <div class="card bg-white rounded-lg p-6 border">
-      <h4 class="font-semibold text-lg">Data Engineering</h4>
-      <p class="mt-2 text-gray-700">ETL pipelines and data workflows using Python, PySpark & Snowflake.</p>
-      <a href="https://github.com/tdurgasaranya/Data-Engineering" class="mt-3 inline-block text-gray-800 font-medium">View Repo</a>
-    </div>
+      <div class="card bg-white p-6 rounded-lg border">
+        <h4 class="font-semibold text-lg">Data Engineering Projects</h4>
+        <p class="mt-2 text-gray-700">ETL workflows and data pipelines with Python & Snowflake.</p>
+        <a href="https://github.com/tdurgasaranya/Data-Engineering" class="text-gray-900 font-medium mt-3 inline-block text-sm">View Repo</a>
+      </div>
 
-    <div class="card bg-white rounded-lg p-6 border">
-      <h4 class="font-semibold text-lg">AI Insights & Analytics</h4>
-      <p class="mt-2 text-gray-700">AI analytics projects and applications.</p>
-      <a href="https://tdurgasaranya.github.io/AI_Applications/#projects" class="mt-3 inline-block text-gray-800 font-medium">Explore Projects</a>
+      <div class="card bg-white p-6 rounded-lg border">
+        <h4 class="font-semibold text-lg">AI & Insights Applications</h4>
+        <p class="mt-2 text-gray-700">AI-oriented analytics and insights platform examples.</p>
+        <a href="https://tdurgasaranya.github.io/AI_Applications/#projects" class="text-gray-900 font-medium mt-3 inline-block text-sm">Explore Projects</a>
+      </div>
     </div>
   </div>
 </section>
 
 <!-- CONTACT -->
-<section id="contact" class="neutral-bg py-16 text-center">
-  <h3 class="section-title mb-4">Contact</h3>
-  <p class="text-gray-700 mb-3">Feel free to reach out for collaborations or opportunities.</p>
-  <p class="text-gray-800 font-medium">Email: <a href="mailto:durgasaranyatumma@gmail.com">durgasaranyatumma@gmail.com</a></p>
+<section id="contact" class="py-16 text-center">
+  <h2 class="section-title mb-4">Contact</h2>
+  <p class="text-gray-700 mb-2">I am open to collaborations, opportunities, and data challenges.</p>
+  <p class="font-medium text-gray-900">Email: <a href="mailto:durgasaranyatumma@gmail.com">durgasaranyatumma@gmail.com</a></p>
 </section>
 
 <footer class="bg-white text-center py-6 text-sm text-gray-600">
