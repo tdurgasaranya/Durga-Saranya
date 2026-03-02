@@ -1,417 +1,718 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Durga S Tummalapalli - Data Analytics Engineer</title>
-
-<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap" rel="stylesheet">
-<script src="https://cdn.tailwindcss.com"></script>
-
-<style>
-
-body{
-font-family:'Manrope',sans-serif;
-background:linear-gradient(180deg,#f0f9ff 0%,#e0f2fe 100%);
-color:#0f172a;
-}
-
-.gradient-text{
-background:linear-gradient(90deg,#38bdf8,#0284c7,#0369a1);
--webkit-background-clip:text;
-background-clip:text;
-color:transparent;
-}
-
-.glass{
-background:rgba(255,255,255,0.7);
-backdrop-filter:blur(12px);
-border:1px solid rgba(255,255,255,0.4);
-box-shadow:0 10px 30px rgba(2,132,199,0.12);
-}
-
-.card-hover{
-transition:all .35s ease;
-}
-
-.card-hover:hover{
-transform:translateY(-6px);
-box-shadow:0 20px 40px rgba(2,132,199,0.2);
-}
-
-.blob{
-border-radius:40% 60% 70% 30% / 40% 50% 60% 50%;
-animation:blob 10s infinite;
-}
-
-@keyframes blob{
-0%,100%{border-radius:40% 60% 70% 30% / 40% 50% 60% 50%;}
-25%{border-radius:60% 40% 50% 70% / 60% 30% 70% 40%;}
-50%{border-radius:70% 30% 40% 60% / 50% 60% 30% 60%;}
-75%{border-radius:40% 60% 60% 40% / 70% 30% 50% 60%;}
-}
-
-.skill-badge{
-background:#e0f2fe;
-transition:.2s;
-}
-
-.skill-badge:hover{
-background:linear-gradient(135deg,#38bdf8,#0284c7);
-color:white;
-transform:scale(1.06);
-}
-
-.apple-btn{
-background:linear-gradient(135deg,#38bdf8,#0284c7);
-color:white;
-border-radius:999px;
-padding:14px 28px;
-font-weight:700;
-transition:.3s;
-}
-
-.apple-btn:hover{
-box-shadow:0 10px 20px rgba(2,132,199,0.35);
-transform:translateY(-2px);
-}
-
-.soft-border{
-border:1px solid rgba(2,132,199,0.15);
-}
-
-</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Durga S Tummalapalli - Data Analytics Engineer</title>
+    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap" rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body {
+            font-family: 'Manrope', sans-serif;
+            font-optical-sizing: auto;
+            font-style: normal;
+        }
+        
+        .gradient-text {
+            background: linear-gradient(to right,#38bdf8, #0284c7, #0369a1);
+            -webkit-background-clip: text;
+            background-clip: text;
+            color: transparent;
+        }
+        
+        .card-hover {
+            transition: all 0.3s ease;
+        }
+        
+        .card-hover:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 30px rgba(178, 101, 255, 0.2);
+        }
+        
+        .blob {
+            border-radius: 40% 60% 70% 30% / 40% 50% 60% 50%;
+            animation: blob-animation 8s ease-in-out infinite;
+        }
+        
+        @keyframes blob-animation {
+            0%, 100% {
+                border-radius: 40% 60% 70% 30% / 40% 50% 60% 50%;
+            }
+            25% {
+                border-radius: 60% 40% 50% 70% / 60% 30% 70% 40%;
+            }
+            50% {
+                border-radius: 70% 30% 40% 60% / 50% 60% 30% 60%;
+            }
+            75% {
+                border-radius: 40% 60% 60% 40% / 70% 30% 50% 60%;
+            }
+        }
+        
+        .pulse-slow {
+            animation: pulse 3s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+        }
+        
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+        
+        .fade-in-up {
+            animation: fadeInUp 0.6s ease-out forwards;
+        }
+        
+        .skill-badge {
+            transition: all 0.2s ease;
+        }
+        
+        .skill-badge:hover {
+            background: linear-gradient(135deg, #e0f2fe, #e0f2fe);
+            color: white;
+            transform: scale(1.05);
+        }
+    </style>
 </head>
-
-<body>
-
-
-<!-- HERO -->
-
-<section class="relative min-h-screen flex items-center justify-center px-6 lg:px-40 pt-20 overflow-hidden">
-
-<div class="absolute top-20 left-20 w-72 h-72 bg-sky-200/40 blob"></div>
-<div class="absolute bottom-32 right-20 w-80 h-80 bg-blue-200/30 blob"></div>
-
-<div class="relative z-10 max-w-6xl w-full">
-
-<div class="grid lg:grid-cols-12 gap-16 items-center">
-
-<div class="lg:col-span-7">
-
-<div class="flex items-center gap-3 mb-5">
-<div class="h-1 w-14 bg-gradient-to-r from-[#38bdf8] to-[#0369a1]"></div>
-<span class="text-sm text-slate-600">Data Analytics Specialist 7+ Years</span>
-</div>
-
-<h1 class="text-5xl lg:text-6xl font-bold mb-6 leading-tight">
-Hi, I'm <span class="gradient-text">Durga S Tummalapalli</span>
-</h1>
-
-<p class="text-lg text-slate-600 mb-10 max-w-xl">
-Results-driven Data Analytics Engineer with <strong>7 years</strong> of experience in Business Intelligence, Data Engineering, and Cloud Data migration with ETL. I transform complex data into actionable insights for Business impact.
-</p>
-
-<div class="flex gap-4 flex-wrap">
-<a href="#contact" class="apple-btn">Get In Touch</a>
-
-<a href="#projects" class="px-8 py-4 rounded-full font-bold soft-border hover:bg-white transition">
-View Projects
-</a>
-</div>
-
-
-<div class="grid grid-cols-3 gap-6 mt-12 pt-10 border-t border-sky-200">
-
-<div>
-<div class="text-3xl font-bold gradient-text">7+</div>
-<div class="text-sm text-slate-500">Years Experience</div>
-</div>
-
-<div>
-<div class="text-3xl font-bold gradient-text">50+</div>
-<div class="text-sm text-slate-500">BI Dashboards</div>
-</div>
-
-<div>
-<div class="text-3xl font-bold gradient-text">80%</div>
-<div class="text-sm text-slate-500">Efficiency Gain</div>
-</div>
-
-</div>
-
-</div>
-
-
-
-<div class="lg:col-span-5">
-
-<div class="glass rounded-3xl p-10 text-center">
-
-<div class="w-36 h-36 mx-auto mb-6 rounded-full bg-gradient-to-br from-[#38bdf8] to-[#0369a1] flex items-center justify-center text-white text-4xl font-bold">
-DS
-</div>
-
-<h3 class="text-2xl font-bold mb-1">Durga S Tummalapalli</h3>
-
-<p class="text-slate-500 mb-6">United States</p>
-
-<div class="flex justify-center gap-4">
-
-<a href="https://www.linkedin.com/in/durga-saranya" target="_blank" class="w-11 h-11 rounded-full soft-border flex items-center justify-center hover:bg-sky-50">
-
-<svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
-<path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 
-2.239 5 5 5h14c2.762 0 5-2.239 
-5-5v-14c0-2.761-2.238-5-5-5z"/>
-</svg>
-
-</a>
-
-
-<a href="https://github.com/tdurgasaranya" target="_blank" class="w-11 h-11 rounded-full soft-border flex items-center justify-center hover:bg-sky-50">
-<svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
-<path d="M12 0c-6.626 0-12 5.373-12 12
-0 5.302 3.438 9.8 8.207 
-11.387.599.111.793-.261.793-.577v-2.234"/>
-</svg>
-</a>
-
-
-<a href="mailto:durgasaranyatumma@gmail.com" class="w-11 h-11 rounded-full soft-border flex items-center justify-center hover:bg-sky-50">
-✉
-</a>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-</div>
-
-</section>
-
-
-
-<!-- IMPACT -->
-
-<section class="px-6 lg:px-40 py-24">
-
-<div class="max-w-6xl mx-auto">
-
-<h2 class="text-4xl font-bold text-center mb-16">
-Quantitative <span class="gradient-text">Impact</span>
-</h2>
-
-<div class="grid md:grid-cols-3 lg:grid-cols-6 gap-8 text-center">
-
-<div class="glass rounded-2xl p-6">
-<div class="text-3xl font-bold gradient-text">60%</div>
-<p class="text-sm text-slate-500 mt-1">Efficiency Gain</p>
-</div>
-
-<div class="glass rounded-2xl p-6">
-<div class="text-3xl font-bold gradient-text">99.5%</div>
-<p class="text-sm text-slate-500 mt-1">Data Accuracy</p>
-</div>
-
-<div class="glass rounded-2xl p-6">
-<div class="text-3xl font-bold gradient-text">70%</div>
-<p class="text-sm text-slate-500 mt-1">Reporting Boost</p>
-</div>
-
-<div class="glass rounded-2xl p-6">
-<div class="text-3xl font-bold gradient-text">80%</div>
-<p class="text-sm text-slate-500 mt-1">Data Reliability</p>
-</div>
-
-<div class="glass rounded-2xl p-6">
-<div class="text-3xl font-bold gradient-text">90%</div>
-<p class="text-sm text-slate-500 mt-1">Sprint Delivery</p>
-</div>
-
-<div class="glass rounded-2xl p-6">
-<div class="text-3xl font-bold gradient-text">50%</div>
-<p class="text-sm text-slate-500 mt-1">Time Reduction</p>
-</div>
-
-</div>
-
-</div>
-
-</section>
-
-
-
-<!-- ACHIEVEMENTS -->
-
-<section class="px-6 lg:px-40 py-24">
-
-<div class="max-w-6xl mx-auto">
-
-<h2 class="text-4xl font-bold text-center mb-16">
-Key <span class="gradient-text">Achievements</span>
-</h2>
-
-<div class="grid lg:grid-cols-2 gap-8">
-
-<div class="glass rounded-2xl p-7 card-hover">
-<h3 class="font-bold text-lg mb-2">Enterprise BI Migration Excellence</h3>
-<p class="text-slate-600">
-Led Qlik Sense to Microsoft Fabric migration delivering 60% performance improvement while maintaining zero downtime
-</p>
-</div>
-
-<div class="glass rounded-2xl p-7 card-hover">
-<h3 class="font-bold text-lg mb-2">High-Accuracy Data Pipelines</h3>
-<p class="text-slate-600">
-Achieved 99.5% accuracy across 30+ automated pipelines processing multi-source datasets for finance and operations
-</p>
-</div>
-
-<div class="glass rounded-2xl p-7 card-hover">
-<h3 class="font-bold text-lg mb-2">Executive Decision Support</h3>
-<p class="text-slate-600">
-Developed 30+ Power BI dashboards enabling KPI-driven executive decisions for quarterly earnings reporting
-</p>
-</div>
-
-<div class="glass rounded-2xl p-7 card-hover">
-<h3 class="font-bold text-lg mb-2">Process Automation Impact</h3>
-<p class="text-slate-600">
-Automated 50+ SQL workflows reducing manual reporting by 40% and accelerating decision-making cycles
-</p>
-</div>
-
-<div class="glass rounded-2xl p-7 card-hover">
-<h3 class="font-bold text-lg mb-2">Agile Team Leadership</h3>
-<p class="text-slate-600">
-Delivered 90% on-time sprint completion through effective Agile leadership and cross-functional collaboration
-</p>
-</div>
-
-<div class="glass rounded-2xl p-7 card-hover">
-<h3 class="font-bold text-lg mb-2">Cloud Architecture Optimization</h3>
-<p class="text-slate-600">
-Architected end-to-end ETL pipelines migrating on-premises data to AWS, improving reliability by 80%
-</p>
-</div>
-
-</div>
-
-</div>
-
-</section>
-
-
-
-<!-- SKILLS -->
-
-<section class="px-6 lg:px-40 py-24">
-
-<div class="max-w-6xl mx-auto">
-
-<h2 class="text-4xl font-bold text-center mb-16">
-Core <span class="gradient-text">Skills</span>
-</h2>
-
-<div class="grid lg:grid-cols-4 gap-8">
-
-<div class="glass rounded-2xl p-6">
-<h3 class="font-bold mb-4">Programming</h3>
-
-<div class="flex flex-wrap gap-2">
-<span class="skill-badge px-3 py-1 rounded-full text-sm">SQL</span>
-<span class="skill-badge px-3 py-1 rounded-full text-sm">Python</span>
-<span class="skill-badge px-3 py-1 rounded-full text-sm">PySpark</span>
-<span class="skill-badge px-3 py-1 rounded-full text-sm">DAX</span>
-<span class="skill-badge px-3 py-1 rounded-full text-sm">Pandas</span>
-</div>
-</div>
-
-
-<div class="glass rounded-2xl p-6">
-<h3 class="font-bold mb-4">Cloud Platforms</h3>
-
-<div class="flex flex-wrap gap-2">
-<span class="skill-badge px-3 py-1 rounded-full text-sm">AWS S3</span>
-<span class="skill-badge px-3 py-1 rounded-full text-sm">Azure Data Factory</span>
-<span class="skill-badge px-3 py-1 rounded-full text-sm">Databricks</span>
-<span class="skill-badge px-3 py-1 rounded-full text-sm">Microsoft Fabric</span>
-<span class="skill-badge px-3 py-1 rounded-full text-sm">Snowflake</span>
-</div>
-</div>
-
-
-<div class="glass rounded-2xl p-6">
-<h3 class="font-bold mb-4">BI & Visualization</h3>
-
-<div class="flex flex-wrap gap-2">
-<span class="skill-badge px-3 py-1 rounded-full text-sm">Power BI</span>
-<span class="skill-badge px-3 py-1 rounded-full text-sm">Tableau</span>
-<span class="skill-badge px-3 py-1 rounded-full text-sm">Qlik Sense</span>
-</div>
-</div>
-
-
-<div class="glass rounded-2xl p-6">
-<h3 class="font-bold mb-4">Databases</h3>
-
-<div class="flex flex-wrap gap-2">
-<span class="skill-badge px-3 py-1 rounded-full text-sm">IBM db2</span>
-<span class="skill-badge px-3 py-1 rounded-full text-sm">MS SQL Server</span>
-<span class="skill-badge px-3 py-1 rounded-full text-sm">MySQL</span>
-<span class="skill-badge px-3 py-1 rounded-full text-sm">Oracle</span>
-</div>
-</div>
-
-</div>
-
-</div>
-
-</section>
-
-
-
-<!-- PROJECTS -->
-
-<section id="projects" class="px-6 lg:px-40 py-24">
-
-<div class="max-w-6xl mx-auto">
-
-<h2 class="text-4xl font-bold text-center mb-16">
-View All <span class="gradient-text">Projects</span>
-</h2>
-
-<div class="grid lg:grid-cols-2 gap-8">
-
-<a href="https://atsresume-scanner.base44.app/" target="_blank" class="glass rounded-2xl p-8 card-hover block">
-
-<div class="flex justify-between items-start mb-4">
-
-<div class="w-12 h-12 rounded-xl bg-gradient-to-br from-[#38bdf8] to-[#0284c7] text-white flex items-center justify-center font-bold">
-ATS
-</div>
-
-</div>
-
-<h3 class="text-xl font-bold mb-2">ATS Resume Scanner</h3>
-
-<p class="text-slate-600">
-AI-powered resume analysis system that optimizes CVs for Applicant Tracking Systems using NLP and pattern recognition.
-</p>
-
-</a>
-
-</div>
-
-</div>
-
-</section>
-
-
-
-</body>
-</html>
+<body class="bg-slate-100">
+    
+    <!-- Hero Section -->
+    <section class="relative min-h-screen flex items-center justify-center px-5 lg:px-40 pt-20 overflow-hidden">
+        <!-- Background Blobs -->
+        <div class="absolute top-20 left-32 w-64 h-64 bg-purple-300/30 blob pulse-slow"></div>
+        <div class="absolute bottom-32 right-36 w-72 h-72 bg-orange-300/20 blob pulse-slow" style="animation-delay: 1s;"></div>
+        
+        <div class="relative z-10 w-full max-w-[70rem] mx-auto">
+            <div class="grid lg:grid-cols-12 gap-10 lg:gap-20 items-center">
+                <!-- Left Content -->
+                <div class="lg:col-span-7 fade-in-up">
+                    <div class="flex items-center gap-2 mb-5">
+                        <div class="h-1 w-12 bg-gradient-to-r from-[#B265FF] via-[#FF4400] to-[#FFA100]"></div>
+                        <span class="text-sm text-gray-600">Data Analytics Specialist 7+ Years</span>
+                    </div>
+                    
+                    <h1 class="text-4xl lg:text-6xl font-bold mb-5 leading-tight">
+                        Hi, I'm <span class="gradient-text">Durga S Tummalapalli </span>
+                    </h1>
+                    
+                    <p class="text-lg lg:text-xl text-gray-600 mb-10 max-w-2xl">
+                        Results-driven Data Analytics Engineer with <strong>7 years</strong> of experience in Business Intelligence, Data Engineering, and Cloud Data migration with ETL. I transform complex data into actionable insights for Business impact.
+                    </p>
+                    
+                    <div class="flex flex-wrap gap-4">
+                        <a href="#contact" class="px-8 py-4 bg-gradient-to-r from-[#B265FF] via-[#FF4400] to-[#FFA100] text-white rounded-full font-bold hover:shadow-lg transition">
+                            Get In Touch
+                        </a>
+                        <a href="#projects" class="px-8 py-4 border-2 border-gray-300 rounded-full font-bold hover:bg-white transition">
+                            View Projects
+                        </a>
+                    </div>
+                    
+                    <!-- Quick Stats -->
+                    <div class="grid grid-cols-3 gap-5 mt-10 pt-10 border-t-2 border-gray-200">
+                        <div>
+                            <div class="text-3xl font-bold gradient-text">7+</div>
+                            <div class="text-sm text-gray-600">Years Experience</div>
+                        </div>
+                        <div>
+                            <div class="text-3xl font-bold gradient-text">50+</div>
+                            <div class="text-sm text-gray-600">BI Dashboards</div>
+                        </div>
+                        <div>
+                            <div class="text-3xl font-bold gradient-text">80%</div>
+                            <div class="text-sm text-gray-600">Efficiency Gain</div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Right Image/Card -->
+                <div class="lg:col-span-5 relative">
+                    <div class="relative w-full h-96 lg:h-[32rem] rounded-2xl overflow-hidden bg-gradient-to-br from-[#B265FF] to-[#FFA100] p-1">
+                        <div class="w-full h-full bg-white rounded-2xl flex items-center justify-center">
+                            <div class="text-center p-10">
+                                <div class="w-40 h-40 mx-auto mb-5 rounded-full bg-gradient-to-br from-[#B265FF] to-[#FFA100] flex items-center justify-center text-white text-5xl font-bold">
+                                    DS
+                                </div>
+                                <h3 class="text-2xl font-bold mb-2">Durga S Tummalapalli</h3>
+                                <p class="text-gray-600 mb-5"> United States </p>
+                                <div class="flex justify-center gap-3">
+                                    <a href="https://www.linkedin.com/in/durga-saranya" target="_blank" class="w-12 h-12 rounded-full border-2 border-gray-300 flex items-center justify-center hover:bg-slate-100 transition">
+                                        <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg>
+                                    </a>
+                                    <a href="https://github.com/tdurgasaranya" target="_blank" class="w-12 h-12 rounded-full border-2 border-gray-300 flex items-center justify-center hover:bg-slate-100 transition">
+                                        <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24"><path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/></svg>
+                                    </a>
+                                    <a href="mailto:durgasaranyatumma@gmail.com" class="w-12 h-12 rounded-full border-2 border-gray-300 flex items-center justify-center hover:bg-slate-100 transition">
+                                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"></path></svg>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Impact Metrics - Circular Style -->
+    <section class="px-5 lg:px-40 py-20 bg-white">
+        <div class="max-w-[70rem] mx-auto">
+            <h2 class="text-3xl lg:text-4xl font-bold text-center mb-16">
+                Quantitative <span class="gradient-text">Impact</span>
+            </h2>
+            
+            <div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-8 lg:gap-10">
+                <div class="flex flex-col items-center">
+                    <div class="relative w-32 h-32 mb-4">
+                        <svg class="w-32 h-32 transform -rotate-90">
+                            <circle cx="64" cy="64" r="56" stroke="#f1f5f9" stroke-width="12" fill="none" />
+                            <circle cx="64" cy="64" r="56" stroke="url(#gradient1)" stroke-width="12" fill="none" 
+                                    stroke-dasharray="351.68" stroke-dashoffset="70" stroke-linecap="round" />
+                        </svg>
+                        <div class="absolute inset-0 flex items-center justify-center">
+                            <span class="text-2xl font-bold gradient-text">60%</span>
+                        </div>
+                    </div>
+                    <p class="text-sm text-gray-600 text-center">Efficiency Gain</p>
+                </div>
+                
+                <div class="flex flex-col items-center">
+                    <div class="relative w-32 h-32 mb-4">
+                        <svg class="w-32 h-32 transform -rotate-90">
+                            <circle cx="64" cy="64" r="56" stroke="#f1f5f9" stroke-width="12" fill="none" />
+                            <circle cx="64" cy="64" r="56" stroke="url(#gradient2)" stroke-width="12" fill="none" 
+                                    stroke-dasharray="351.68" stroke-dashoffset="3.5" stroke-linecap="round" />
+                        </svg>
+                        <div class="absolute inset-0 flex items-center justify-center">
+                            <span class="text-2xl font-bold gradient-text">99.5%</span>
+                        </div>
+                    </div>
+                    <p class="text-sm text-gray-600 text-center">Data Accuracy</p>
+                </div>
+                
+                <div class="flex flex-col items-center">
+                    <div class="relative w-32 h-32 mb-4">
+                        <svg class="w-32 h-32 transform -rotate-90">
+                            <circle cx="64" cy="64" r="56" stroke="#f1f5f9" stroke-width="12" fill="none" />
+                            <circle cx="64" cy="64" r="56" stroke="url(#gradient3)" stroke-width="12" fill="none" 
+                                    stroke-dasharray="351.68" stroke-dashoffset="140" stroke-linecap="round" />
+                        </svg>
+                        <div class="absolute inset-0 flex items-center justify-center">
+                            <span class="text-2xl font-bold gradient-text">70%</span>
+                        </div>
+                    </div>
+                    <p class="text-sm text-gray-600 text-center">Reporting Boost</p>
+                </div>
+                
+                <div class="flex flex-col items-center">
+                    <div class="relative w-32 h-32 mb-4">
+                        <svg class="w-32 h-32 transform -rotate-90">
+                            <circle cx="64" cy="64" r="56" stroke="#f1f5f9" stroke-width="12" fill="none" />
+                            <circle cx="64" cy="64" r="56" stroke="url(#gradient4)" stroke-width="12" fill="none" 
+                                    stroke-dasharray="351.68" stroke-dashoffset="70" stroke-linecap="round" />
+                        </svg>
+                        <div class="absolute inset-0 flex items-center justify-center">
+                            <span class="text-2xl font-bold gradient-text">80%</span>
+                        </div>
+                    </div>
+                    <p class="text-sm text-gray-600 text-center">Data Reliability</p>
+                </div>
+                
+                <div class="flex flex-col items-center">
+                    <div class="relative w-32 h-32 mb-4">
+                        <svg class="w-32 h-32 transform -rotate-90">
+                            <circle cx="64" cy="64" r="56" stroke="#f1f5f9" stroke-width="12" fill="none" />
+                            <circle cx="64" cy="64" r="56" stroke="url(#gradient5)" stroke-width="12" fill="none" 
+                                    stroke-dasharray="351.68" stroke-dashoffset="35" stroke-linecap="round" />
+                        </svg>
+                        <div class="absolute inset-0 flex items-center justify-center">
+                            <span class="text-2xl font-bold gradient-text">90%</span>
+                        </div>
+                    </div>
+                    <p class="text-sm text-gray-600 text-center">Sprint Delivery</p>
+                </div>
+                
+                <div class="flex flex-col items-center">
+                    <div class="relative w-32 h-32 mb-4">
+                        <svg class="w-32 h-32 transform -rotate-90">
+                            <circle cx="64" cy="64" r="56" stroke="#f1f5f9" stroke-width="12" fill="none" />
+                            <circle cx="64" cy="64" r="56" stroke="url(#gradient6)" stroke-width="12" fill="none" 
+                                    stroke-dasharray="351.68" stroke-dashoffset="176" stroke-linecap="round" />
+                        </svg>
+                        <div class="absolute inset-0 flex items-center justify-center">
+                            <span class="text-2xl font-bold gradient-text">50%</span>
+                        </div>
+                    </div>
+                    <p class="text-sm text-gray-600 text-center">Time Reduction</p>
+                </div>
+            </div>
+            
+            <!-- SVG Gradients Definition -->
+            <svg width="0" height="0">
+                <defs>
+                    <linearGradient id="gradient1" x1="0%" y1="0%" x2="100%" y2="0%">
+                        <stop offset="0%" style="stop-color:#B265FF;stop-opacity:1" />
+                        <stop offset="100%" style="stop-color:#FF4400;stop-opacity:1" />
+                    </linearGradient>
+                    <linearGradient id="gradient2" x1="0%" y1="0%" x2="100%" y2="0%">
+                        <stop offset="0%" style="stop-color:#FFA100;stop-opacity:1" />
+                        <stop offset="100%" style="stop-color:#ff4600;stop-opacity:1" />
+                    </linearGradient>
+                    <linearGradient id="gradient3" x1="0%" y1="0%" x2="100%" y2="0%">
+                        <stop offset="0%" style="stop-color:#d75585;stop-opacity:1" />
+                        <stop offset="100%" style="stop-color:#B265FF;stop-opacity:1" />
+                    </linearGradient>
+                    <linearGradient id="gradient4" x1="0%" y1="0%" x2="100%" y2="0%">
+                        <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1" />
+                        <stop offset="100%" style="stop-color:#FFA100;stop-opacity:1" />
+                    </linearGradient>
+                    <linearGradient id="gradient5" x1="0%" y1="0%" x2="100%" y2="0%">
+                        <stop offset="0%" style="stop-color:#10b981;stop-opacity:1" />
+                        <stop offset="100%" style="stop-color:#3b82f6;stop-opacity:1" />
+                    </linearGradient>
+                    <linearGradient id="gradient6" x1="0%" y1="0%" x2="100%" y2="0%">
+                        <stop offset="0%" style="stop-color:#B265FF;stop-opacity:1" />
+                        <stop offset="100%" style="stop-color:#FFA100;stop-opacity:1" />
+                    </linearGradient>
+                </defs>
+            </svg>
+        </div>
+    </section>
+
+    <!-- Key Achievements Section -->
+    <section class="px-5 lg:px-40 py-20 bg-white">
+        <div class="max-w-[70rem] mx-auto">
+            <h2 class="text-3xl lg:text-4xl font-bold text-center mb-16">
+                Key <span class="gradient-text">Achievements</span>
+            </h2>
+            
+            <div class="grid lg:grid-cols-2 gap-6">
+                <div class="p-6 rounded-2xl bg-gradient-to-br from-purple-50 to-white border-2 border-purple-200 card-hover">
+                    <div class="flex items-start gap-4">
+                        <div class="w-12 h-12 rounded-xl bg-gradient-to-br from-[#B265FF] to-[#FF4400] flex items-center justify-center flex-shrink-0">
+                            <svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"></path></svg>
+                        </div>
+                        <div>
+                            <h3 class="font-bold text-lg mb-2">Enterprise BI Migration Excellence</h3>
+                            <p class="text-gray-700">Led Qlik Sense to Microsoft Fabric migration delivering 60% performance improvement while maintaining zero downtime</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="p-6 rounded-2xl bg-gradient-to-br from-orange-50 to-white border-2 border-orange-200 card-hover">
+                    <div class="flex items-start gap-4">
+                        <div class="w-12 h-12 rounded-xl bg-gradient-to-br from-[#FFA100] to-[#ff4600] flex items-center justify-center flex-shrink-0">
+                            <svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"></path></svg>
+                        </div>
+                        <div>
+                            <h3 class="font-bold text-lg mb-2">High-Accuracy Data Pipelines</h3>
+                            <p class="text-gray-700">Achieved 99.5% accuracy across 30+ automated pipelines processing multi-source datasets for finance and operations</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="p-6 rounded-2xl bg-gradient-to-br from-pink-50 to-white border-2 border-pink-200 card-hover">
+                    <div class="flex items-start gap-4">
+                        <div class="w-12 h-12 rounded-xl bg-gradient-to-br from-[#d75585] to-[#B265FF] flex items-center justify-center flex-shrink-0">
+                            <svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 12l3-3 3 3 4-4M8 21l4-4 4 4M3 4h18M4 4h16v12a1 1 0 01-1 1H5a1 1 0 01-1-1V4z"></path></svg>
+                        </div>
+                        <div>
+                            <h3 class="font-bold text-lg mb-2">Executive Decision Support</h3>
+                            <p class="text-gray-700">Developed 30+ Power BI dashboards enabling KPI-driven executive decisions for quarterly earnings reporting</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="p-6 rounded-2xl bg-gradient-to-br from-blue-50 to-white border-2 border-blue-200 card-hover">
+                    <div class="flex items-start gap-4">
+                        <div class="w-12 h-12 rounded-xl bg-gradient-to-br from-blue-500 to-[#FFA100] flex items-center justify-center flex-shrink-0">
+                            <svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+                        </div>
+                        <div>
+                            <h3 class="font-bold text-lg mb-2">Process Automation Impact</h3>
+                            <p class="text-gray-700">Automated 50+ SQL workflows reducing manual reporting by 40% and accelerating decision-making cycles</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="p-6 rounded-2xl bg-gradient-to-br from-green-50 to-white border-2 border-green-200 card-hover">
+                    <div class="flex items-start gap-4">
+                        <div class="w-12 h-12 rounded-xl bg-gradient-to-br from-green-500 to-blue-500 flex items-center justify-center flex-shrink-0">
+                            <svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z"></path></svg>
+                        </div>
+                        <div>
+                            <h3 class="font-bold text-lg mb-2">Agile Team Leadership</h3>
+                            <p class="text-gray-700">Delivered 90% on-time sprint completion through effective Agile leadership and cross-functional collaboration</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="p-6 rounded-2xl bg-gradient-to-br from-yellow-50 to-white border-2 border-yellow-200 card-hover">
+                    <div class="flex items-start gap-4">
+                        <div class="w-12 h-12 rounded-xl bg-gradient-to-br from-yellow-500 to-orange-500 flex items-center justify-center flex-shrink-0">
+                            <svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 3v4M3 5h4M6 17v4m-2-2h4m5-16l2.286 6.857L21 12l-5.714 2.143L13 21l-2.286-6.857L5 12l5.714-2.143L13 3z"></path></svg>
+                        </div>
+                        <div>
+                            <h3 class="font-bold text-lg mb-2">Cloud Architecture Optimization</h3>
+                            <p class="text-gray-700">Architected end-to-end ETL pipelines migrating on-premises data to AWS, improving reliability by 80%</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Skills Section -->
+    <section class="px-5 lg:px-40 py-20 bg-slate-100">
+        <div class="max-w-[70rem] mx-auto">
+            <h2 class="text-3xl lg:text-4xl font-bold text-center mb-10">
+                Core <span class="gradient-text">Skills</span>
+            </h2>
+            
+            <div class="grid lg:grid-cols-4 gap-5">
+                <div class="p-6 bg-white rounded-2xl border-2 border-gray-200">
+                    <h3 class="font-bold mb-4 text-lg">Programming</h3>
+                    <div class="flex flex-wrap gap-2">
+                        <span class="skill-badge px-3 py-1 bg-slate-100 rounded-full text-sm">SQL</span>
+                        <span class="skill-badge px-3 py-1 bg-slate-100 rounded-full text-sm">Python</span>
+                        <span class="skill-badge px-3 py-1 bg-slate-100 rounded-full text-sm">PySpark</span>
+                        <span class="skill-badge px-3 py-1 bg-slate-100 rounded-full text-sm">DAX</span>
+                        <span class="skill-badge px-3 py-1 bg-slate-100 rounded-full text-sm">Pandas</span>
+                    </div>
+                </div>
+                
+                <div class="p-6 bg-white rounded-2xl border-2 border-gray-200">
+                    <h3 class="font-bold mb-4 text-lg">Cloud Platforms</h3>
+                    <div class="flex flex-wrap gap-2">
+                        <span class="skill-badge px-3 py-1 bg-slate-100 rounded-full text-sm">AWS S3</span>
+                        <span class="skill-badge px-3 py-1 bg-slate-100 rounded-full text-sm">Azure Data Factory</span>
+                        <span class="skill-badge px-3 py-1 bg-slate-100 rounded-full text-sm">Databricks</span>
+                        <span class="skill-badge px-3 py-1 bg-slate-100 rounded-full text-sm">Microsoft Fabric</span>
+                        <span class="skill-badge px-3 py-1 bg-slate-100 rounded-full text-sm">Snowflake</span>
+                    </div>
+                </div>
+                
+                <div class="p-6 bg-white rounded-2xl border-2 border-gray-200">
+                    <h3 class="font-bold mb-4 text-lg">BI & Visualization</h3>
+                    <div class="flex flex-wrap gap-2">
+                        <span class="skill-badge px-3 py-1 bg-slate-100 rounded-full text-sm">Power BI</span>
+                        <span class="skill-badge px-3 py-1 bg-slate-100 rounded-full text-sm">Tableau</span>
+                        <span class="skill-badge px-3 py-1 bg-slate-100 rounded-full text-sm">Qlik Sense</span>
+                    </div>
+                </div>
+                
+                <div class="p-6 bg-white rounded-2xl border-2 border-gray-200">
+                    <h3 class="font-bold mb-4 text-lg">Databases</h3>
+                    <div class="flex flex-wrap gap-2">
+                        <span class="skill-badge px-3 py-1 bg-slate-100 rounded-full text-sm">IBM db2</span>
+                        <span class="skill-badge px-3 py-1 bg-slate-100 rounded-full text-sm">MS SQL Server</span>
+                        <span class="skill-badge px-3 py-1 bg-slate-100 rounded-full text-sm">MySQL</span>
+                        <span class="skill-badge px-3 py-1 bg-slate-100 rounded-full text-sm">Oracle</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Projects Section -->
+    <section id="projects" class="px-5 lg:px-40 py-20 bg-white">
+        <div class="max-w-[70rem] mx-auto">
+            <h2 class="text-3xl lg:text-4xl font-bold text-center mb-10">
+                View All <span class="gradient-text">Projects</span>
+            </h2>
+            
+            <div class="grid lg:grid-cols-2 gap-8">
+                <a href="https://atsresume-scanner.base44.app/" target="_blank" class="group p-8 rounded-2xl border-2 border-gray-200 card-hover bg-white">
+                    <div class="flex items-start justify-between mb-4">
+                        <div class="w-14 h-14 rounded-xl bg-gradient-to-br from-[#B265FF] to-[#FF4400] flex items-center justify-center text-white text-xl font-bold">
+                            ATS
+                        </div>
+                        <svg class="w-6 h-6 text-gray-400 group-hover:text-[#B265FF] transition" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
+                    </div>
+                    <h3 class="text-2xl font-bold mb-3">ATS Resume Scanner</h3>
+                    <p class="text-gray-600 mb-4">AI-powered resume analysis system that optimizes CVs for Applicant Tracking Systems using NLP and pattern recognition.</p>
+                    <div class="flex flex-wrap gap-2">
+                        <span class="px-3 py-1 bg-purple-100 text-purple-700 rounded-full text-xs font-medium">NLP</span>
+                        <span class="px-3 py-1 bg-blue-100 text-blue-700 rounded-full text-xs font-medium">Python</span>
+                        <span class="px-3 py-1 bg-green-100 text-green-700 rounded-full text-xs font-medium">ML</span>
+                    </div>
+                </a>
+                
+                <a href="https://h1-b-insight-hub-b0f69f4a.base44.app/" target="_blank" class="group p-8 rounded-2xl border-2 border-gray-200 card-hover bg-white">
+                    <div class="flex items-start justify-between mb-4">
+                        <div class="w-14 h-14 rounded-xl bg-gradient-to-br from-[#FFA100] to-[#ff4600] flex items-center justify-center text-white text-xl font-bold">
+                            H1B
+                        </div>
+                        <svg class="w-6 h-6 text-gray-400 group-hover:text-[#FFA100] transition" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
+                    </div>
+                    <h3 class="text-2xl font-bold mb-3">H1-B Insight Hub</h3>
+                    <p class="text-gray-600 mb-4">Data visualization dashboard providing comprehensive insights into H1-B visa trends, statistics, and patterns.</p>
+                    <div class="flex flex-wrap gap-2">
+                        <span class="px-3 py-1 bg-orange-100 text-orange-700 rounded-full text-xs font-medium">Data Viz</span>
+                        <span class="px-3 py-1 bg-pink-100 text-pink-700 rounded-full text-xs font-medium">Analytics</span>
+                        <span class="px-3 py-1 bg-yellow-100 text-yellow-700 rounded-full text-xs font-medium">D3.js</span>
+                    </div>
+                </a>
+                
+                <a href="https://claude.ai/public/artifacts/14884c43-337b-43db-8bb7-b9d6bc4db1e7" target="_blank" class="group p-8 rounded-2xl border-2 border-gray-200 card-hover bg-white">
+                    <div class="flex items-start justify-between mb-4">
+                        <div class="w-14 h-14 rounded-xl bg-gradient-to-br from-[#d75585] to-[#B265FF] flex items-center justify-center text-white text-xl font-bold">
+                            SB
+                        </div>
+                        <svg class="w-6 h-6 text-gray-400 group-hover:text-[#d75585] transition" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
+                    </div>
+                    <h3 class="text-2xl font-bold mb-3">Starbucks Sales Prediction</h3>
+                    <p class="text-gray-600 mb-4">Machine learning model forecasting Starbucks sales using historical data, promotions, and customer demographics.</p>
+                    <div class="flex flex-wrap gap-2">
+                        <span class="px-3 py-1 bg-purple-100 text-purple-700 rounded-full text-xs font-medium">ML</span>
+                        <span class="px-3 py-1 bg-blue-100 text-blue-700 rounded-full text-xs font-medium">Regression</span>
+                        <span class="px-3 py-1 bg-green-100 text-green-700 rounded-full text-xs font-medium">Time Series</span>
+                    </div>
+                </a>
+                
+                <a href="https://github.com/tdurgasaranya/Power-BI-Projects" target="_blank" class="group p-8 rounded-2xl border-2 border-gray-200 card-hover bg-white">
+                    <div class="flex items-start justify-between mb-4">
+                        <div class="w-14 h-14 rounded-xl bg-gradient-to-br from-blue-500 to-[#FFA100] flex items-center justify-center text-white text-xl font-bold">
+                            BI
+                        </div>
+                        <svg class="w-6 h-6 text-gray-400 group-hover:text-blue-500 transition" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
+                    </div>
+                    <h3 class="text-2xl font-bold mb-3">Power BI Portfolio</h3>
+                    <p class="text-gray-600 mb-4">Showcase of interactive dashboards, KPIs, DAX measures, and custom metrics driving business decision-making.</p>
+                    <div class="flex flex-wrap gap-2">
+                        <span class="px-3 py-1 bg-blue-100 text-blue-700 rounded-full text-xs font-medium">Power BI</span>
+                        <span class="px-3 py-1 bg-orange-100 text-orange-700 rounded-full text-xs font-medium">DAX</span>
+                        <span class="px-3 py-1 bg-purple-100 text-purple-700 rounded-full text-xs font-medium">Analytics</span>
+                    </div>
+                </a>
+            
+            <a href="https://devpost.com/software/genber-bias-in-tech-layoffs-economic-development-for-women" target="_blank" class="group p-8 rounded-2xl border-2 border-gray-200 card-hover bg-white">
+                    <div class="flex items-start justify-between mb-4">
+                        <div class="w-14 h-14 rounded-xl bg-gradient-to-br from-[#d75585] to-[#B265FF] flex items-center justify-center text-white text-xl font-bold">
+                            GW
+                        </div>
+                        <svg class="w-6 h-6 text-gray-400 group-hover:text-[#d75585] transition" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
+                    </div>
+                    <h3 class="text-2xl font-bold mb-3">Google AI Data Challenge</h3>
+                    <p class="text-gray-600 mb-4">Google's Women Techmakers presents She Builds AI </p>
+                    <div class="flex flex-wrap gap-2">
+                        <span class="px-3 py-1 bg-purple-100 text-purple-700 rounded-full text-xs font-medium">Python_web_Scraping</span>
+                        <span class="px-3 py-1 bg-blue-100 text-blue-700 rounded-full text-xs font-medium">SQL</span>
+                        <span class="px-3 py-1 bg-green-100 text-green-700 rounded-full text-xs font-medium">Gemini_Model</span>
+                    </div>
+                </a>
+               
+            
+                <a href="https://github.com/tdurgasaranya/MTA-Data-Challenge/blob/main/README.md" target="_blank" class="group p-8 rounded-2xl border-2 border-gray-200 card-hover bg-white">
+                    <div class="flex items-start justify-between mb-4">
+                        <div class="w-14 h-14 rounded-xl bg-gradient-to-br from-[#d75585] to-[#B265FF] flex items-center justify-center text-white text-xl font-bold">
+                            MTA
+                        </div>
+                        <svg class="w-6 h-6 text-gray-400 group-hover:text-[#d75585] transition" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
+                    </div>
+                    <h3 class="text-2xl font-bold mb-3">MTA Data Challenge</h3>
+                    <p class="text-gray-600 mb-4">MTA Data Challenge project analyzes public transit data from the Metropolitan Transportation Authority (MTA) to uncover insights into subway ridership patterns.</p>
+                    <div class="flex flex-wrap gap-2">
+                        <span class="px-3 py-1 bg-purple-100 text-purple-700 rounded-full text-xs font-medium">Python_Pandas</span>
+                        <span class="px-3 py-1 bg-blue-100 text-blue-700 rounded-full text-xs font-medium">SqLite</span>
+                        <span class="px-3 py-1 bg-green-100 text-green-700 rounded-full text-xs font-medium">Power_BI</span>
+                    </div>
+                </a>
+
+
+            <div class="text-center mt-10">
+                <a href="https://tdurgasaranya.github.io/AI_Applications/" target="_blank" class="inline-block px-8 py-4 border-2 border-gray-300 rounded-full font-bold hover:bg-white transition">
+                    View All Projects
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Experience Section -->
+    <section class="px-5 lg:px-40 py-20 bg-slate-100">
+        <div class="max-w-[70rem] mx-auto">
+            <h2 class="text-3xl lg:text-4xl font-bold text-center mb-16">
+                Professional <span class="gradient-text">Experience</span>
+            </h2>
+            
+            <div class="space-y-6">
+                <!-- Blue Bird Corporation -->
+                <div class="p-8 bg-white rounded-2xl border-2 border-gray-200 card-hover">
+                    <div class="flex flex-col lg:flex-row lg:items-start lg:justify-between mb-4">
+                        <div>
+                            <h3 class="text-2xl font-bold mb-1">Lead Data Analytics Engineer</h3>
+                            <p class="text-lg text-[#B265FF] font-semibold">Blue Bird Corporation</p>
+                        </div>
+                        <span class="text-gray-600 mt-2 lg:mt-0">Jan 2024 - Present</span>
+                    </div>
+                    <div class="grid md:grid-cols-2 gap-4 mb-4">
+                        <div class="flex items-center gap-3">
+                            <div class="w-12 h-12 rounded-lg bg-purple-100 flex items-center justify-center flex-shrink-0">
+                                <span class="text-xl font-bold text-[#B265FF]">30+</span>
+                            </div>
+                            <p class="text-sm text-gray-600">Automated ETL pipelines with 99.5% accuracy</p>
+                        </div>
+                        <div class="flex items-center gap-3">
+                            <div class="w-12 h-12 rounded-lg bg-orange-100 flex items-center justify-center flex-shrink-0">
+                                <span class="text-xl font-bold text-[#FFA100]">60%</span>
+                            </div>
+                            <p class="text-sm text-gray-600">Efficiency gain from Qlik to Fabric migration</p>
+                        </div>
+                        <div class="flex items-center gap-3">
+                            <div class="w-12 h-12 rounded-lg bg-pink-100 flex items-center justify-center flex-shrink-0">
+                                <span class="text-xl font-bold text-[#d75585]">70%</span>
+                            </div>
+                            <p class="text-sm text-gray-600">Reporting efficiency boost via DAX & SQL</p>
+                        </div>
+                        <div class="flex items-center gap-3">
+                            <div class="w-12 h-12 rounded-lg bg-blue-100 flex items-center justify-center flex-shrink-0">
+                                <span class="text-xl font-bold text-blue-500">80%</span>
+                            </div>
+                            <p class="text-sm text-gray-600">Improved metrics with star schema design</p>
+                        </div>
+                    </div>
+                    <ul class="space-y-2 text-gray-700">
+                        <li class="flex items-start gap-2">
+                            <svg class="w-5 h-5 text-[#B265FF] mt-0.5 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path></svg>
+                            <span>Built 30+ Power BI dashboards for executive KPIs and quarterly earnings</span>
+                        </li>
+                        <li class="flex items-start gap-2">
+                            <svg class="w-5 h-5 text-[#B265FF] mt-0.5 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path></svg>
+                            <span>Architected end-to-end ETL pipelines migrating on-prem data to AWS S3/Athena</span>
+                        </li>
+                        <li class="flex items-start gap-2">
+                            <svg class="w-5 h-5 text-[#B265FF] mt-0.5 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path></svg>
+                            <span>Reduced report refresh time by 50% through SQL query optimization</span>
+                        </li>
+                    </ul>
+                </div>
+
+                <!-- Micron Technology -->
+                <div class="p-8 bg-white rounded-2xl border-2 border-gray-200 card-hover">
+                    <div class="flex flex-col lg:flex-row lg:items-start lg:justify-between mb-4">
+                        <div>
+                            <h3 class="text-2xl font-bold mb-1">Senior Data Engineer</h3>
+                            <p class="text-lg text-[#FFA100] font-semibold">Micron Technology</p>
+                        </div>
+                        <span class="text-gray-600 mt-2 lg:mt-0">Dec 2019 - Aug 2022</span>
+                    </div>
+                    <div class="grid md:grid-cols-2 gap-4 mb-4">
+                        <div class="flex items-center gap-3">
+                            <div class="w-12 h-12 rounded-lg bg-purple-100 flex items-center justify-center flex-shrink-0">
+                                <span class="text-xl font-bold text-[#B265FF]">20+</span>
+                            </div>
+                            <p class="text-sm text-gray-600">Tableau dashboards for supply chain KPIs</p>
+                        </div>
+                        <div class="flex items-center gap-3">
+                            <div class="w-12 h-12 rounded-lg bg-orange-100 flex items-center justify-center flex-shrink-0">
+                                <span class="text-xl font-bold text-[#FFA100]">90%</span>
+                            </div>
+                            <p class="text-sm text-gray-600">Improved master data governance</p>
+                        </div>
+                        <div class="flex items-center gap-3">
+                            <div class="w-12 h-12 rounded-lg bg-green-100 flex items-center justify-center flex-shrink-0">
+                                <span class="text-xl font-bold text-green-600">50+</span>
+                            </div>
+                            <p class="text-sm text-gray-600">Automated SQL reporting workflows</p>
+                        </div>
+                        <div class="flex items-center gap-3">
+                            <div class="w-12 h-12 rounded-lg bg-blue-100 flex items-center justify-center flex-shrink-0">
+                                <span class="text-xl font-bold text-blue-500">40%</span>
+                            </div>
+                            <p class="text-sm text-gray-600">Faster Snowflake data processing</p>
+                        </div>
+                    </div>
+                    <ul class="space-y-2 text-gray-700">
+                        <li class="flex items-start gap-2">
+                            <svg class="w-5 h-5 text-[#FFA100] mt-0.5 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path></svg>
+                            <span>Built scalable ETL pipelines on Snowflake improving data accuracy by 99%</span>
+                        </li>
+                        <li class="flex items-start gap-2">
+                            <svg class="w-5 h-5 text-[#FFA100] mt-0.5 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path></svg>
+                            <span>Mentored junior engineers boosting team productivity by 65%</span>
+                        </li>
+                        <li class="flex items-start gap-2">
+                            <svg class="w-5 h-5 text-[#FFA100] mt-0.5 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path></svg>
+                            <span>Optimized ETL workflows reducing daily runtime by 50%</span>
+                        </li>
+                    </ul>
+                </div>
+
+                <!-- Vervint -->
+                <div class="p-8 bg-white rounded-2xl border-2 border-gray-200 card-hover">
+                    <div class="flex flex-col lg:flex-row lg:items-start lg:justify-between mb-4">
+                        <div>
+                            <h3 class="text-2xl font-bold mb-1">Business Intelligence Developer</h3>
+                            <p class="text-lg text-[#d75585] font-semibold">Vervint</p>
+                        </div>
+                        <span class="text-gray-600 mt-2 lg:mt-0">May 2023 - Oct 2023</span>
+                    </div>
+                    <div class="grid md:grid-cols-2 gap-4 mb-4">
+                        <div class="flex items-center gap-3">
+                            <div class="w-12 h-12 rounded-lg bg-purple-100 flex items-center justify-center flex-shrink-0">
+                                <span class="text-xl font-bold text-[#B265FF]">15+</span>
+                            </div>
+                            <p class="text-sm text-gray-600">Power BI dashboards delivered</p>
+                        </div>
+                        <div class="flex items-center gap-3">
+                            <div class="w-12 h-12 rounded-lg bg-pink-100 flex items-center justify-center flex-shrink-0">
+                                <span class="text-xl font-bold text-[#d75585]">70%</span>
+                            </div>
+                            <p class="text-sm text-gray-600">Increased data reliability</p>
+                        </div>
+                    </div>
+                    <ul class="space-y-2 text-gray-700">
+                        <li class="flex items-start gap-2">
+                            <svg class="w-5 h-5 text-[#d75585] mt-0.5 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path></svg>
+                            <span>Built 15+ dashboards with advanced DAX reducing ad hoc reporting cycles</span>
+                        </li>
+                        <li class="flex items-start gap-2">
+                            <svg class="w-5 h-5 text-[#d75585] mt-0.5 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path></svg>
+                            <span>Streamlined ERP workflows reducing integration effort by 40%</span>
+                        </li>
+                    </ul>
+                </div>
+
+                <!-- Exusia -->
+                <div class="p-8 bg-white rounded-2xl border-2 border-gray-200 card-hover">
+                    <div class="flex flex-col lg:flex-row lg:items-start lg:justify-between mb-4">
+                        <div>
+                            <h3 class="text-2xl font-bold mb-1">Data Analyst</h3>
+                            <p class="text-lg text-blue-500 font-semibold">Exusia, Inc</p>
+                        </div>
+                        <span class="text-gray-600 mt-2 lg:mt-0">Jul 2018 - Dec 2019</span>
+                    </div>
+                    <div class="grid md:grid-cols-2 gap-4 mb-4">
+                        <div class="flex items-center gap-3">
+                            <div class="w-12 h-12 rounded-lg bg-orange-100 flex items-center justify-center flex-shrink-0">
+                                <span class="text-xl font-bold text-[#FFA100]">18%</span>
+                            </div>
+                            <p class="text-sm text-gray-600">Cut in non-compliant operations</p>
+                        </div>
+                        <div class="flex items-center gap-3">
+                            <div class="w-12 h-12 rounded-lg bg-blue-100 flex items-center justify-center flex-shrink-0">
+                                <span class="text-xl font-bold text-blue-500">35%</span>
+                            </div>
+                            <p class="text-sm text-gray-600">Boost in cost efficiency</p>
+                        </div>
+                    </div>
+                    <ul class="space-y-2 text-gray-700">
+                        <li class="flex items-start gap-2">
+                            <svg class="w-5 h-5 text-blue-500 mt-0.5 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path></svg>
+                            <span>Detected cost leakages through SQL analysis saving 18% in operations</span>
+                        </li>
+                        <li class="flex items-start gap-2">
+                            <svg class="w-5 h-5 text-blue-500 mt-0.5 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path></svg>
+                            <span>Built executive Tableau dashboards driving 35% visibility boost</span>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
